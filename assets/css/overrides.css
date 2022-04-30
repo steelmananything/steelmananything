@@ -1,0 +1,7 @@
+.page__footer-follow li {
+	text-transform: none;
+}
+
+.page__footer-follow a {
+	padding-right: 0;
+}

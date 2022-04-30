@@ -1,0 +1,26 @@
+main:
+  - title: "Topics"
+    url: /topics/introduction/
+  # - title: "Videos"
+  #   url: /videos/introduction/
+  # - title: "Newsletter"
+  #   url: /newsletter/
+  # - title: "Community"
+  #   url: /community/
+  # - title: "Donate"
+  #   url: /donate/
+  - title: "About"
+    url: /about/
+
+
+topics:
+  - title: Topics
+    children:
+      - title: "Introduction"
+        url: /topics/introduction/
+
+videos:
+  - title: Videos
+    children:
+      - title: "Introduction"
+        url: /videos/introduction/
