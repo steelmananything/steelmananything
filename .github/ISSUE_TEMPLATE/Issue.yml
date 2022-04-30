@@ -6,13 +6,15 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Following Contribution Guidelines
+      label: Contribution Guidelines
       description: By submitting this issue, you agree to our [Contribution Guidelines](https://github.com/steelmananything/steelmananything/blob/main/CONTRIBUTING.md#how-to-contribute)
       options:
         - label: I agree to follow this project's Contribution Guidelines
           required: true
-  - type: markdown
+  - type: textarea
+    id: contents
     attributes:
-      value: Report an error, propose an edit, or start a discussion
+      label: Details
+      description: Report an error, propose an edit, or start a discussion
     validations:
       required: true
