@@ -6,7 +6,7 @@ By contributing, you must agree to release your contributions into the public do
 
 ## Ways to Contribute
 
-A [free GitHub.com account](https://github.com/signup) is required to directly contribute using the methods below:
+A [free GitHub.com account](https://github.com/signup) is required to contribute using the methods below:
 
 1. You may [open an issue](https://github.com/steelmananything/steelmananything/issues/new?assignees=&labels=&template=Report.yml) to report an error, propose an edit, or start a discussion.
 2. You may propose an edit to the site using a method below. Content is authored in [GitHub Flavored Markdown](https://github.github.com/gfm/).
