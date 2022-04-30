@@ -12,5 +12,7 @@ body:
         - label: I agree to follow this project's Contribution Guidelines
           required: true
   - type: markdown
+    attributes:
+      value: 
     validations:
       required: true
