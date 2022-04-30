@@ -6,8 +6,9 @@ This is the source of the Steelman Anything website at <https://steelmananything
 
 ## Development
 
-1. `bundle exec jekyll serve --livereload`
-2. Open <http://localhost:4000/>
+1. `git clone https://github.com/steelmananything/steelmananything`
+2. `bundle exec jekyll serve --livereload`
+3. Open <http://localhost:4000/>
 
 ## License
 
