@@ -9,6 +9,8 @@ sidebar: true
 
 Steelman Anything is based around the concept of [steelmanning](/topics/introduction). Email [lucius@steelmananything.com](mailto:lucius@steelmananything.com) with questions or feedback.
 
+The source code of this website is at <https://github.com/steelmananything/steelmananything>. Feel free to open issues and/or submit pull requests.
+
 ## Additional Links
 
 * [Privacy Policy](/privacy/)
