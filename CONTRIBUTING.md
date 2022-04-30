@@ -8,7 +8,7 @@ By contributing, you must agree to release your contributions into the public do
 
 A [free GitHub.com account](https://github.com/signup) is required to directly contribute using the methods below:
 
-1. You may [open an issue](https://github.com/steelmananything/steelmananything/issues/new) to report an error or start a discussion.
+1. You may [open an issue](https://github.com/steelmananything/steelmananything/issues/new) to report an error, propose an edit, or start a discussion.
 2. You may propose an edit to the site using a method below. Content is authored in [GitHub Flavored Markdown](https://github.github.com/gfm/).
     1. Navigate to a page [in the code](https://github.com/steelmananything/steelmananything/tree/main) -- for example, the [Topics Introduction](https://github.com/steelmananything/steelmananything/blob/main/_topics/introduction.md) page -- click the pencil edit button, make your change, and click Commit changes.
     2. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
