@@ -13,6 +13,6 @@ body:
           required: true
   - type: markdown
     attributes:
-      value: Report an error, propose an edit, or start a discussion:
+      value: Report an error, propose an edit, or start a discussion
     validations:
       required: true
