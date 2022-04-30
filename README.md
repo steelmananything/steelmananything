@@ -6,9 +6,18 @@ This is the source of the Steelman Anything website at <https://steelmananything
 
 ## Development
 
-1. `git clone https://github.com/steelmananything/steelmananything`
-2. `bundle exec jekyll serve --livereload`
-3. Open <http://localhost:4000/>
+### Pre-requisites
+
+1. Install [Ruby](https://www.ruby-lang.org/)
+2. `gem install bundler jekyll`
+3. `git clone https://github.com/steelmananything/steelmananything`
+4. `cd steelmananything`
+5. `bundle install`
+
+### Running
+
+1. `bundle exec jekyll serve --livereload`
+2. Open <http://localhost:4000/>
 
 ## License
 
