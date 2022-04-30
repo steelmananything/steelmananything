@@ -1,0 +1,1 @@
+By contributing, you agree to release your contributions into the public domain with the [CC0 license](https://github.com/steelmananything/steelmananything/blob/main/LICENSE.txt) by waiving all copyright and related or neighboring rights to your contributed content.
