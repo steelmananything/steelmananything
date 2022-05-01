@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the source of the Steelman Anything website at <https://steelmananything.com/>.
+This is the source of the Steelman Anything website at <https://steelmananything.com/>
 
 We welcome contributions but please first review the [contribution guidelines](CONTRIBUTING.md).
 
