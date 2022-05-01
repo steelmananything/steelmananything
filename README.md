@@ -23,4 +23,4 @@ We welcome contributions but please first review the [contribution guidelines](C
 
 ## License
 
-All content is licensed in the public domain with the [CC0 license](LICENSE.txt): To the extent possible under law, the contributors to Steelman Anything have waived all copyright and related or neighboring rights to this content. This work is published from: the United States.
+All content is licensed in the public domain with the [CC0 license](LICENSE.txt): To the extent possible under law, the contributors to Steelman Anything have waived all copyright and related or neighboring rights to this content. This work is published from the United States.
