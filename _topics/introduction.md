@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 permalink: /topics/introduction/
-excerpt: "Introduction to all of the topics."
+excerpt: "Introduction to steelmanning."
 last_modified_at: 2022-05-30T00:00:00-00:00
 toc: true
 ---
