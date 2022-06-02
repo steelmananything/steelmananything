@@ -10,7 +10,7 @@ toc: true
 
 Steelmanning is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Empathy] with their positive intentions.
 
-Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an <abbr title="The form of the argument may be valid but its context is incorrect">informal argumentation error</abbr> in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a [strong metal alloy][Hosford, 2012].
+Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a [strong metal alloy][Hosford, 2012].
 
 The main reason we like steelmanning here is its attempt to empathize with other people instead of just trying to win arguments. We hope that steelmanning improves relations between people and helps achieve the best possible world for everyone.
 
@@ -20,7 +20,9 @@ The main reason we like steelmanning here is its attempt to empathize with other
 
 Ironmanning occurs when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually [strawmanning](#what-is-steelmanning).
 
-Steel is an alloy of [iron and carbon or other materials][Hosford, 2012], but pure iron is relatively [soft](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/23%3A_The_Transition_Elements/23.3%3A_Metallurgy_of_Iron_and_Steel) despite it being a metal, so ironmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (the pure metal is soft).
+Steel is an alloy of [iron and carbon or other materials][Hosford, 2012], but pure and wrought iron are relatively [soft, formable, and brittle][Hosford, 2012] despite being a metal, so ironmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (the pure metal is soft).
+
+This term is a bit ambiguous because many people imagine strength when they think of iron: The Iron Age, iron clad, iron curtain, pumping iron, the Iron Man comic character, and so on. This is because the colloquial use of the word "iron" after about 200 BCE [refers][Hosford, 2012] to iron ore heated and remelted with charcoal and oxygen to make strong alloys with carbon, a precursor to steel, rather then the modern understanding of pure iron (the chemical element _Fe_) or the pre-historic wrought iron.
 
 ### Steelmanning may be condescending, harmful, and/or arrogant
 
@@ -212,6 +214,7 @@ Dr. Alexander's arguments don't seem to be ironmen. Analyzing both examples:
 
 [Aikin & Casey, 2011]: https://doi.org/10.1007/s10503-010-9199-y 'Aikin, S. F., & Casey, J. (2011). Straw men, weak men, and hollow men. Argumentation, 25(1), 87-105. https://doi.org/10.1007/s10503-010-9199-y'
 [Empathy]: https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102 'Empathy. Oxford University Press. Retrieved 30 May. 2022, from https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102'
+[Hansen & Zalta, 2020]: https://plato.stanford.edu/archives/sum2020/entries/fallacies/ 'Hansen, H., & Zalta, E. (Ed.) (2020). Fallacies. The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/fallacies/'
 [Hosford, 2012]: https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1 'Hosford, W. F. (2012). Iron and Steel. United States: Cambridge University Press. https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1'
 [Nye, 2004]: https://doi.org/10.1080/1024529042000301971 'Nye, D. (2004). Regulatory myopia and public health: ‘tough' tobacco control?. Competition & Change, 8(3), 305-321. https://doi.org/10.1080/1024529042000301971'
 [Stevens, 2021]: https://doi.org/10.1080/10511431.2021.1897327 'Stevens, K. (2021). Charity for moral reasons?–A defense of the principle of charity in argumentation. Argumentation and Advocacy, 57(2), 67-84. https://doi.org/10.1080/10511431.2021.1897327'
