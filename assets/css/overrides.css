@@ -10,3 +10,13 @@
 	border-bottom: 1px dashed #bfbfbf;
 	padding-bottom: 0.5em;
 }
+
+.floatright {
+	float: right;
+	margin: 5px;
+}
+
+.floatleft {
+	float: left;
+	margin: 5px;
+}

@@ -8,38 +8,40 @@ toc: true
 
 ## What is steelmanning?
 
+![Steelman](/assets/images/armor-2925348.png "Image by Momentmal from Pixabay"){:.floatright}
 Steelmanning is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Empathy] with their positive intentions.
 
-Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a [strong metal alloy][Hosford, 2012].
+Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. ![Strawman](/assets/images/autumn-2931460.jpg "Image by MajKaRate from Pixabay"){:.floatright} Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a [strong metal alloy][Hosford, 2012].
 
 The main reason we like steelmanning here is its attempt to empathize with other people instead of just trying to win arguments. We hope that steelmanning improves relations between people and helps achieve the best possible world for everyone.
 
-## Problems with steelmanning
+## Arguments against steelmanning
 
 ### Tinmanning: Strawmanning as steelmanning
 
-Tinmanning is a fallacy when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually strawmanning.
+Tinmanning is a fallacy when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually strawmanning. ![Tinman](/assets/images/can-170837.png "Image by Veda Clark from Pixabay"){:.floatright}
 
 Tin is a relatively soft metal compared to steel, so tinmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (a soft metal).
 
-This term is a bit ambiguous because iron or steel products are sometimes coated with tin to make them water proof, so tin is sometimes associated with strength. Also, the Tin Man in The Wizard of Oz would rust but tin does not rust, suggesting the Tin Man was like a tin-coated iron or steel. Nevertheless, tin on its own is relatively soft.
+This term is a bit ambiguous because iron or steel products are sometimes coated with tin to make them water proof, so tin is sometimes associated with strength. Also, the Tin Man in _The Wizard of Oz_ would rust but tin does not rust, suggesting the Tin Man was like a tin-coated iron or steel. Nevertheless, tin on its own is relatively soft.
 
-### Ironmanning: Excessive steelmanning
+### Ironmanning: Making an unreasonable argument reasonable
 
-Ironmanning is when someone excessively steelmans an unreasonable argument. This is a subjective judgment rather than a fallacy.
+![Ironman](/assets/images/art-744202.jpg "Image by ashkhan2 from Pixabay"){:.floatright}
+Ironmanning is when someone makes another person's unreasonable argument reasonable. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
 
-Iron is similar in strength to steel (steel is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument, although as the converse of strawmanning: Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
+Iron is similar in strength to steel (which is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument but for an argument that "shouldn't" have been strengthened. Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
 
 ### Summarizing the terms
 
 * Strawmanning: Making a reasonable argument unreasonable.
-* Steelmanning: Making a reasonable argument stronger.
+* Steelmanning: Making an argument stronger.
 * Tinmanning: Saying one is steelmanning but actually strawmanning.
 * Ironmanning: Making an unreasonable argument reasonable.
 
-### Steelmanning may be condescending, harmful, and/or arrogant
+### Steelmanning may be condescending, harmful, or arrogant
 
-[Ozy Brennan writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [ironmanning](#ironmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, and/or arrogant:
+[Ozy Brennan writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [tinmanning](#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
 
 > In the least obnoxious case [...] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
 > 
@@ -65,30 +67,30 @@ Brennan's proposed alternative is:
 
 First attempt steelmanning Brennan:
 
-Even if a person is well-intentioned, steelmanning is very hard to do and thus often leads to [ironmanning](#ironmanning-strawmanning-as-steelmanning). Ironmanning may be condescending, harmful, and/or arrogant. Therefore, declaring that one is steelmanning usually fails and causes unnecessary damage. A better approach is to switch from the debating approach of steelmanning to a collaborative truth-seeking approach, understanding actual viewpoints, and seeking out well-informed advocates.
+Even if a person is well-intentioned, steelmanning is very hard to do and thus often leads to [tinmanning](#tinmanning-strawmanning-as-steelmanning). Tinmanning may be condescending, harmful, or arrogant. Therefore, declaring that one is steelmanning usually fails and causes unnecessary damage. A better approach is to switch from the debating approach of steelmanning to a collaborative truth-seeking approach, understanding actual viewpoints, and seeking out well-informed advocates.
 
 Formally:
 
-1. Steelmanning is very hard and often leads to [ironmanning](#ironmanning-strawmanning-as-steelmanning) (premise).
-2. Ironmanning may be condescending, harmful, and/or arrogant (premise).
+1. Steelmanning is very hard and often leads to [tinmanning](#tinmanning-strawmanning-as-steelmanning) (premise).
+2. Tinmanning may be condescending, harmful, or arrogant (premise).
 3. Truth-seeking collaboration, understanding actual viewpoints and seeking out well-informed advocates is better than steelmanning debate because it is focused on finding common ground (premise).
-4. Therefore, debating with steelmanning is a worse approach and often leads to being condescending, harmful, and/or arrogant (follows from 1, 2, and 3).
+4. Therefore, debating with steelmanning is a worse approach and often leads to being condescending, harmful, or arrogant (follows from 1, 2, and 3).
 
-##### Response: All truth-seeking is hard and may lead to such damage and steelmanning should do this less
+##### Response: All truth-seeking is hard and may lead to such damage but steelmanning should do this less
 
-All forms of truth-seeking are hard and may lead to strawmanning which may lead to being condescending, harmful, and/or arrogant. The benefit of steelmanning is that it explicitly tries to avoid strawmanning through a foundation of empathy. By analogy, science is very hard, but it's better than the alternatives. The proposed alternative (truth-seeking collaboration, understand actual viewpoints, seek out well-informed advocates, and finding common ground) seems to be part of proper steelmanning.
+All forms of truth-seeking are hard and may lead to strawmanning which may lead to being condescending, harmful, or arrogant. The benefit of steelmanning is that it explicitly tries to avoid strawmanning through a foundation of empathy. By analogy, science is very hard, but it's better than the alternatives. The proposed alternative (truth-seeking collaboration, understand actual viewpoints, seek out well-informed advocates, and finding common ground) seems to be part of proper steelmanning.
 
 Formally:
 
 1. All forms of truth-seeking are hard and often lead to strawmanning (premise).
-2. Strawmanning may be condescending, harmful, and/or arrogant (premise).
+2. Strawmanning may be condescending, harmful, or arrogant (premise).
 3. Steelmanning is better than all other approaches because it explicitly tries to avoid strawmanning through a foundation of empathy (premise; [by definition](#what-is-steelmanning)).
 4. Truth-seeking collaboration, understanding actual viewpoints, seeking out well-informed advocates, and finding common ground seem to be parts of proper steelmanning (premise).
 5. Therefore, despite steelmanning being very hard and possibly leading to negative emotions, this is true of all approaches, and steelmanning should do it the least (follows from 1, 2, 3, and 4).
 
-### Exacerbating or adding strawmen
+### Steelmanning one argument may strawman another
 
-[Dr. Gelman argues](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/) using two examples by Dr. Alexander that steelmanning may exacerbate or add strawmen:
+[Dr. Gelman argues](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/) using two examples by Dr. Alexander that steelmanning one argument may strawman another:
 
 > [Steelmanning] can lead to being uncharitable or "strawmanning" of other positions that are being opposed or caricatured by the people you are steelmanning.
 
@@ -96,46 +98,46 @@ Dr. Gelman's proposed alternative is:
 
 > to try to address the arguments as [they] arise.
 
-#### Steelman: Steelmanning may worsen strawmen
+#### Steelman: Steelmanning may indirectly worsen strawmen
 
 First attempt steelmanning Dr. Gelman's argument:
 
-If you steelman an argument of person X, but that person's argument was a strawman of person Y, then you might exacerbate that strawman.
+If you steelman an argument of person X, but that person's argument was a strawman of person Y, then you might indirectly worsen that strawman.
 
 Formally:
 
-1. Steelmanning an argument with a strawman in it may exacerbate the strawman (premise).
-2. "Addressing an argument as it is" is unlikely to exacerbate strawmen because they're dealt with directly rather than transformed (premise).
-3. Therefore, steelmanning may exacerbate or add strawmen whereas that's less likely when "addressing an argument as it is" (follows from 1 and 2).
+1. Steelmanning an argument that is a strawman of another argument may worsen that strawman (premise).
+2. "Addressing an argument as it is" is unlikely to indirectly worsen strawmen because they're dealt with directly rather than transformed and unreasonable aspects may be discarded (premise).
+3. Therefore, steelmanning may indirectly worsen strawmen whereas that's less likely when "addressing an argument as it is" (follows from 1 and 2).
 
-##### Response: Strengthening a strawman isn't steelmanning; it's ironmanning
+##### Response: Worsening any strawman isn't steelmanning; it's tinmanning
 
-Steelmanning a worse strawman is a failure of steelmanning and it's instead [ironmanning](#ironmanning-strawmanning-as-steelmanning). By its nature, steelmanning should reduce strawmen, whereas "addressing an argument as it is" is not designed to reduce strawmen.
+Worsening any strawman while steelmanning is a failure of steelmanning; instead, it's [tinmanning](#tinmanning-strawmanning-as-steelmanning). By its nature, steelmanning should reduce strawmen, whereas "addressing an argument as it is" does not necessarily reduce strawmen.
 
 Formally:
 
-1. Steelmanning strives to reduce or eliminate strawmen (premise; [by definition](#what-is-steelmanning)).
-2. A steelman that exacerbates a strawman is a failure of steelmanning; instead, it's an [ironman](#ironmanning-strawmanning-as-steelmanning). Similarly, proper steelmanning aims not to introduce new strawmen (both follow from 1). 
+1. Steelmanning strives to reduce or eliminate all strawmen (premise; [by definition](#what-is-steelmanning)).
+2. A steelman that worsens a strawman is a failure of steelmanning; instead, it's an tinmanning (premise; [by definition](#tinmanning-strawmanning-as-steelmanning)).
 3. "Addressing an argument as it is" does not explicitly involve striving to reduce or eliminate strawmen because "addressing" may involve any form of argumentation (premise; by definition, or lack thereof).
 4. "Addressing an argument as it is" -- with a strawman in it -- is less likely than steelmanning to reduce or eliminate a strawman (follows from 3).
-5. Therefore, proper steelmanning should reduce rather than exacerbate strawmen, and more than "addressing an argument as it is" (follows from 1, 2 and 4).
+5. Therefore, proper steelmanning should reduce rather than worsen strawmen, and more than "addressing an argument as it is" (follows from 1, 2 and 4).
 
-#### Steelman: If an expert in steelmanning can easily ironman, then something is rotten in steelmanning
+#### Steelman: If an expert in steelmanning can easily tinman, then something is rotten in steelmanning
 
 Second attempt steelmanning Dr. Gelman's argument:
 
-If what Dr. Alexander did was ironmanning, given that Dr. Alexander is a [major figurehead of the steelmanning movement](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/), if such an expert steelmans poorly, then something is rotten in steelmanning and we should be skeptical of steelmanning.
+If what Dr. Alexander did was tinmanning, given that Dr. Alexander is a [major figurehead of the steelmanning movement](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/), if such an expert steelmans poorly, then something is rotten in steelmanning and we should be skeptical of it.
 
 Formally:
 
 1. Dr. Alexander is a [major figurehead of the steelmanning movement](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) (premise).
 2. A field's general soundness can be gauged informally by its experts' use -- or misuse -- of that field's tools (premise).
-3. Dr. Alexander committed two major instances of ironmanning (see [Dr. Gelman's arguments](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/)).
+3. Dr. Alexander committed two major instances of tinmanning ([Dr. Gelman's arguments](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/)).
 4. Therefore, something is rotten in steelmanning, even if it's an informal flaw (follows from 1, 2, and 3).
 
-##### Response: Dr. Alexander's arguments don't seem to be ironmen
+##### Response: Dr. Alexander's arguments don't seem to be tinmen
 
-Dr. Alexander's arguments don't seem to be ironmen. Analyzing both examples:
+Dr. Alexander's arguments don't seem to be tinmen. Analyzing both examples:
 
 1. Dr. Alexander [wrote](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted):
    
@@ -183,7 +185,7 @@ Dr. Alexander's arguments don't seem to be ironmen. Analyzing both examples:
    4. Therefore, it's extremely plausible for an average person to think that elites covered up ivermectin to make more money.
    5. That ivermectin might have shown positive results due to confounding is irrelevant because that's an argument almost no one was making.
    
-   One could argue that the above is an ironman: Given the added global scrutiny by medical researchers and public health officials, a better steelman would be a simpler explanation of incompetence and myopia, along with greed combined with regulatory capture.
+   One could argue that the above is a tinman: Given the added global scrutiny by medical researchers and public health officials, a better steelman would be a simpler explanation of incompetence and myopia, along with greed combined with regulatory capture.
    
    However, Dr. Alexander argues that this doesn't explain the active disregard for the positive evidence of ivermectin studies. One would seemingly need to argue something along the lines of:
    
