@@ -16,13 +16,26 @@ The main reason we like steelmanning here is its attempt to empathize with other
 
 ## Problems with steelmanning
 
-### Ironmanning: Strawmanning as steelmanning
+### Tinmanning: Strawmanning as steelmanning
 
-Ironmanning is a fallacy when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually [strawmanning](#what-is-steelmanning).
+Tinmanning is a fallacy when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually strawmanning.
 
-Steel is an alloy of [iron and carbon or other materials][Hosford, 2012], but pure and wrought iron are relatively [soft, formable, and brittle][Hosford, 2012] despite being metals, so ironmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (pure or wrought iron are soft or brittle).
+Tin is a relatively soft metal compared to steel, so tinmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (a soft metal).
 
-This term is a bit ambiguous because many people imagine strength when they think of iron: The Iron Age, iron clad, iron curtain, pumping iron, the Iron Man comic character, and so on. This is because the colloquial use of the word "iron" after about 200 BCE [refers][Hosford, 2012] to iron ore heated and remelted with charcoal and oxygen to make strong alloys with carbon, a precursor to steel, rather then the modern understanding of pure iron (the chemical element _Fe_) or the pre-historic wrought iron.
+This term is a bit ambiguous because iron or steel products are sometimes coated with tin to make them water proof, so tin is sometimes associated with strength. Also, the Tin Man in The Wizard of Oz would rust but tin does not rust, suggesting the Tin Man was like a tin-coated iron or steel. Nevertheless, tin on its own is relatively soft.
+
+### Ironmanning: Excessive steelmanning
+
+Ironmanning is when someone excessively steelmans an unreasonable argument. This is a subjective judgment rather than a fallacy.
+
+Iron is similar in strength to steel (steel is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument, although as the converse of strawmanning: Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
+
+### Summarizing the terms
+
+* Strawmanning: Making a reasonable argument unreasonable.
+* Steelmanning: Making a reasonable argument stronger.
+* Tinmanning: Saying one is steelmanning but actually strawmanning.
+* Ironmanning: Making an unreasonable argument reasonable.
 
 ### Steelmanning may be condescending, harmful, and/or arrogant
 
