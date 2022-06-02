@@ -26,7 +26,7 @@ This term is a bit ambiguous because many people imagine strength when they thin
 
 ### Steelmanning may be condescending, harmful, and/or arrogant
 
-[Ozymandias writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [ironmanning](#ironmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, and/or arrogant:
+[Ozy Brennan writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [ironmanning](#ironmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, and/or arrogant:
 
 > In the least obnoxious case [...] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
 > 
@@ -38,7 +38,7 @@ This term is a bit ambiguous because many people imagine strength when they thin
 > 
 > You can say "but neither of those are actually steelmanning! Real steelmanning is being able to put other people's viewpoints in words they themselves find more compelling than their own arguments!" However, that is an extraordinarily rare and difficult skill; even most people who do it once can't do it consistently. Saying "to steelman position X..." should be interpreted the same way as saying "to express perfect loving kindness for all beings..." It's certainly a nice ideal which people might want to approach, and some people even manage to pull it off sometimes, but it's a bit arrogant to declare that you're definitely doing it. Even when you think you are, you usually aren't.
 
-Ozymandias' proposed alternative is:
+Brennan's proposed alternative is:
 
 > First, seek to understand the actual viewpoints people you disagree with are actually advocating.
 > 
@@ -50,7 +50,7 @@ Ozymandias' proposed alternative is:
 
 #### Steelman: Steelmanning usually fails and causes unnecessary damage
 
-First attempt steelmanning Ozymandias:
+First attempt steelmanning Brennan:
 
 Even if a person is well-intentioned, steelmanning is very hard to do and thus often leads to [ironmanning](#ironmanning-strawmanning-as-steelmanning). Ironmanning may be condescending, harmful, and/or arrogant. Therefore, declaring that one is steelmanning usually fails and causes unnecessary damage. A better approach is to switch from the debating approach of steelmanning to a collaborative truth-seeking approach, understanding actual viewpoints, and seeking out well-informed advocates.
 
