@@ -20,7 +20,7 @@ The main reason we like steelmanning here is its attempt to empathize with other
 
 Ironmanning occurs when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually [strawmanning](#what-is-steelmanning).
 
-Steel is an alloy of [iron and carbon or other materials][Hosford, 2012], but pure and wrought iron are relatively [soft, formable, and brittle][Hosford, 2012] despite being a metal, so ironmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (the pure or wrought metals are soft or brittle).
+Steel is an alloy of [iron and carbon or other materials][Hosford, 2012], but pure and wrought iron are relatively [soft, formable, and brittle][Hosford, 2012] despite being a metal, so ironmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (pure or wrought iron are soft or brittle).
 
 This term is a bit ambiguous because many people imagine strength when they think of iron: The Iron Age, iron clad, iron curtain, pumping iron, the Iron Man comic character, and so on. This is because the colloquial use of the word "iron" after about 200 BCE [refers][Hosford, 2012] to iron ore heated and remelted with charcoal and oxygen to make strong alloys with carbon, a precursor to steel, rather then the modern understanding of pure iron (the chemical element _Fe_) or the pre-historic wrought iron.
 
