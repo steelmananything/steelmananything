@@ -30,13 +30,13 @@ feature_row:
   #   url: "/videos/introduction/"
   #   btn_class: "btn--primary"
   #   btn_label: "Videos"
-  # - image_path: /assets/images/mailbox-2607174.jpg
-  #   alt: "Newsletter"
-  #   title: "Newsletter"
-  #   excerpt: "Subscribe to the newsletter for updates."
-  #   url: "/newsletter/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Newsletter"
+  - image_path: /assets/images/mailbox-2607174.jpg
+    alt: "Newsletter"
+    title: "Newsletter"
+    excerpt: "Subscribe to the newsletter for updates."
+    url: "https://steelmananything.substack.com/"
+    btn_class: "btn--primary"
+    btn_label: "Newsletter"
   # - image_path: /assets/images/alexander-popov-R25Q-pAUeY8-unsplash.jpg
   #   alt: "Community"
   #   title: "Community"

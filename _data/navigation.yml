@@ -3,8 +3,8 @@ main:
     url: /topics/introduction/
   # - title: "Videos"
   #   url: /videos/introduction/
-  # - title: "Newsletter"
-  #   url: /newsletter/
+  - title: "Newsletter"
+    url: https://steelmananything.substack.com/
   # - title: "Community"
   #   url: /community/
   # - title: "Donate"
