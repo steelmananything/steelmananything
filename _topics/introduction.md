@@ -2,7 +2,7 @@
 title: "Introduction"
 permalink: /topics/introduction/
 excerpt: "Introduction to steelmanning."
-last_modified_at: 2022-05-30T00:00:00-00:00
+last_modified_at: 2022-06-02T00:00:00-00:00
 toc: true
 ---
 
