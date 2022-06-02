@@ -117,7 +117,7 @@ Worsening any strawman while steelmanning is a failure of steelmanning; instead,
 Formally:
 
 1. Steelmanning strives to reduce or eliminate all strawmen (premise; [by definition](#what-is-steelmanning)).
-2. A steelman that worsens a strawman is a failure of steelmanning; instead, it's an tinmanning (premise; [by definition](#tinmanning-strawmanning-as-steelmanning)).
+2. A steelman that worsens a strawman is a failure of steelmanning; instead, it's a tinman (premise; [by definition](#tinmanning-strawmanning-as-steelmanning)).
 3. "Addressing an argument as it is" does not explicitly involve striving to reduce or eliminate strawmen because "addressing" may involve any form of argumentation (premise; by definition, or lack thereof).
 4. "Addressing an argument as it is" -- with a strawman in it -- is less likely than steelmanning to reduce or eliminate a strawman (follows from 3).
 5. Therefore, proper steelmanning should reduce rather than worsen strawmen, and more than "addressing an argument as it is" (follows from 1, 2 and 4).
@@ -133,7 +133,7 @@ Formally:
 1. Dr. Alexander is a [major figurehead of the steelmanning movement](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) (premise).
 2. A field's general soundness can be gauged informally by its experts' use -- or misuse -- of that field's tools (premise).
 3. Dr. Alexander committed two major instances of tinmanning ([Dr. Gelman's arguments](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/)).
-4. Therefore, something is rotten in steelmanning, even if it's an informal flaw (follows from 1, 2, and 3).
+4. Therefore, something is rotten in steelmanning (follows from 1, 2, and 3).
 
 ##### Response: Dr. Alexander's arguments don't seem to be tinmen
 
