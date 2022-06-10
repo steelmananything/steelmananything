@@ -224,7 +224,7 @@ For completeness, ironmanning is when someone makes another person's "unreasonab
 
 Iron is similar in strength to steel (which is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument but for an argument that "shouldn't" have been strengthened. Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
 
-In our opinion, accusations of ironmanning tend to just poison the well of a debate.
+In our opinion, accusations of ironmanning aren't very useful unless the accuser is willing to debate what is "unreasonable" and why they judge the subject so.
 
 <!-- References -->
 
