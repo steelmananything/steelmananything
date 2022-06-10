@@ -25,13 +25,6 @@ Tin is a relatively soft metal compared to steel, so tinmanning is meant to conv
 
 This term is a bit ambiguous because iron or steel products are sometimes coated with tin to make them water proof, so tin is sometimes associated with strength. Also, the Tin Man in _The Wizard of Oz_ would rust but tin does not rust, suggesting the Tin Man was like a tin-coated iron or steel. Nevertheless, tin on its own is relatively soft.
 
-### Ironmanning: Making an unreasonable argument reasonable
-
-![Ironman](/assets/images/art-744202.jpg "Image by ashkhan2 from Pixabay"){:.floatright}
-Ironmanning is when someone makes another person's unreasonable argument reasonable. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
-
-Iron is similar in strength to steel (which is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument but for an argument that "shouldn't" have been strengthened. Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
-
 ### Summarizing the terms
 
 * Strawmanning: Making a reasonable argument unreasonable.
@@ -224,6 +217,15 @@ Dr. Alexander's arguments don't seem to be tinmen. Analyzing both examples:
    It's charitable to think Dr. Alexander was not categorically denying the potential of medical Machiavellianism under some circumstances but that this was irrelevant in this case.
    
    Therefore, it's not clear that Dr. Alexander strawmanned anyone in this example.
+
+### Ironmanning: Making an unreasonable argument reasonable
+
+![Ironman](/assets/images/art-744202.jpg "Image by ashkhan2 from Pixabay"){:.floatright}
+For completeness, ironmanning is when someone makes another person's "unreasonable" argument reasonable. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
+
+Iron is similar in strength to steel (which is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument but for an argument that "shouldn't" have been strengthened. Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
+
+In our opinion, accusations of ironmanning tend to just poison the well of a debate.
 
 <!-- References -->
 
