@@ -30,7 +30,6 @@ This term is a bit ambiguous because iron or steel products are sometimes coated
 * Strawmanning: Making a reasonable argument unreasonable.
 * Steelmanning: Making an argument stronger.
 * Tinmanning: Saying one is steelmanning but actually strawmanning.
-* Ironmanning: Making an unreasonable argument reasonable.
 
 ### Steelmanning may be condescending, harmful, or arrogant
 
