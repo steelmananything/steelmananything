@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/mailbox-2607174.jpg
     alt: "Newsletter"
     title: "Newsletter"
-    excerpt: "Subscribe to the newsletter for updates."
+    excerpt: "Subscribe to the Substack newsletter for updates."
     url: "https://steelmananything.substack.com/"
     btn_class: "btn--primary"
     btn_label: "Newsletter"
