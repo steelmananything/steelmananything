@@ -220,7 +220,7 @@ Dr. Alexander's arguments don't seem to be tinmen. Analyzing both examples:
 ### Ironmanning: Making an unreasonable argument reasonable
 
 ![Ironman](/assets/images/art-744202.jpg "Image by ashkhan2 from Pixabay"){:.floatright}
-For completeness, ironmanning is when someone makes another person's "unreasonable" argument reasonable. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
+For completeness, ironmanning is when someone makes another person's "unreasonable" argument reasonable. This is the converse of strawmanning. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
 
 Iron is similar in strength to steel (which is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument but for an argument that "shouldn't" have been strengthened. Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
 
