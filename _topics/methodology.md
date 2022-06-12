@@ -8,7 +8,7 @@ toc: true
 
 ## Our methodology
 
-Below are some of the principles we try to follow. There are legitimate critiques of all of these premises and steelmanning is needed for this and other methodologies, but we had to start somewhere.
+Below are the core principles we try to follow. This might change over time as we steelman the techniques but we had to start somewhere.
 
 1. Use structured [reasons and arguments][Dutilh Novaes & Zalta, 2021].
 2. If possible, use arguments based on [evidence][Kelly & Zalta, 2016], [science][Hepburn et al., 2021], and [rationalism][Markie et al., 2021].
