@@ -3,6 +3,7 @@ title: "Our First Steelmen"
 categories: 
   - Blog
 last_modified_at: 2022-06-02T12:00:00-00:00
+show_date: true
 ---
 
 This post is a bit academic, and will be unlike most other posts, but it seems fitting that our first steelmanning exercise should be to consider potential problems with steelmanning itself.
