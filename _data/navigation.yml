@@ -18,6 +18,8 @@ topics:
     children:
       - title: "Introduction"
         url: /topics/introduction/
+      - title: "Methodology"
+        url: /topics/methodology/
 
 videos:
   - title: Videos
