@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Lucius Asclepius" # &name is a YAML anchor which can be *referenced later
 description              : &description "Steelman Anything"
-url                      : https://steelmananything.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://steelmananything.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "steelmananything/steelmananything"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
