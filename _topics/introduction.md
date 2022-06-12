@@ -9,7 +9,7 @@ toc: true
 ## What is steelmanning?
 
 ![Steelman](/assets/images/armor-2925348.png "Image by Momentmal from Pixabay"){:.floatright}
-Steelmanning is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Empathy] with their positive intentions.
+Steelmanning is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Stueber & Zalta, 2019] with their positive intentions.
 
 Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. ![Strawman](/assets/images/autumn-2931460.jpg "Image by MajKaRate from Pixabay"){:.floatright} Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a [strong metal alloy][Hosford, 2012].
 
@@ -229,8 +229,8 @@ In our opinion, accusations of ironmanning aren't very useful unless the accuser
 <!-- References -->
 
 [Aikin & Casey, 2011]: https://doi.org/10.1007/s10503-010-9199-y 'Aikin, S. F., & Casey, J. (2011). Straw men, weak men, and hollow men. Argumentation, 25(1), 87-105. https://doi.org/10.1007/s10503-010-9199-y'
-[Empathy]: https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102 'Empathy. Oxford University Press. Retrieved 30 May. 2022, from https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102'
 [Hansen & Zalta, 2020]: https://plato.stanford.edu/entries/metaphysics/ 'Hansen, H., & Zalta, E. (Ed.) (2020). Fallacies. The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/fallacies/'
 [Hosford, 2012]: https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1 'Hosford, W. F. (2012). Iron and Steel. United States: Cambridge University Press. https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1'
 [Nye, 2004]: https://doi.org/10.1080/1024529042000301971 'Nye, D. (2004). Regulatory myopia and public health: ‘tough' tobacco control?. Competition & Change, 8(3), 305-321. https://doi.org/10.1080/1024529042000301971'
 [Stevens, 2021]: https://doi.org/10.1080/10511431.2021.1897327 'Stevens, K. (2021). Charity for moral reasons?–A defense of the principle of charity in argumentation. Argumentation and Advocacy, 57(2), 67-84. https://doi.org/10.1080/10511431.2021.1897327'
+[Stueber & Zalta, 2019]: https://plato.stanford.edu/entries/empathy/ 'Stueber, K., & Zalta, E. (Ed.) (2019). Empathy. The Stanford Encyclopedia of Philosophy (Fall 2019 Edition). https://plato.stanford.edu/archives/fall2019/entries/empathy/'
