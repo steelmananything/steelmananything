@@ -10,7 +10,7 @@ This post is a bit academic, and will be unlike most other posts, but it seems f
 
 ## Steelmanning
 
-As a refresher of [our first post](/blog/welcome/) defining steelmanning, it is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Empathy] with their positive intentions. Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw – easy to knock down – and then this strawman is argued against instead of what the person really meant.
+As a refresher of [our first post](/blog/welcome/) defining steelmanning, it is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Stueber & Zalta, 2019] with their positive intentions. Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw – easy to knock down – and then this strawman is argued against instead of what the person really meant.
 
 ## Tinmanning
 
@@ -168,3 +168,4 @@ In our opinion, accusations of ironmanning aren't very useful unless the accuser
 [Empathy]: https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102 'Empathy. Oxford University Press. Retrieved 30 May. 2022, from https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102'
 [Hansen & Zalta, 2020]: https://plato.stanford.edu/archives/sum2020/entries/fallacies/ 'Hansen, H., & Zalta, E. (Ed.) (2020). Fallacies. The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/fallacies/'
 [Stevens, 2021]: https://doi.org/10.1080/10511431.2021.1897327 'Stevens, K. (2021). Charity for moral reasons?–A defense of the principle of charity in argumentation. Argumentation and Advocacy, 57(2), 67-84. https://doi.org/10.1080/10511431.2021.1897327'
+[Stueber & Zalta, 2019]: https://plato.stanford.edu/entries/empathy/ 'Stueber, K., & Zalta, E. (Ed.) (2019). Empathy. The Stanford Encyclopedia of Philosophy (Fall 2019 Edition). https://plato.stanford.edu/archives/fall2019/entries/empathy/'
