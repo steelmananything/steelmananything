@@ -230,7 +230,7 @@ In our opinion, accusations of ironmanning aren't very useful unless the accuser
 
 [Aikin & Casey, 2011]: https://doi.org/10.1007/s10503-010-9199-y 'Aikin, S. F., & Casey, J. (2011). Straw men, weak men, and hollow men. Argumentation, 25(1), 87-105. https://doi.org/10.1007/s10503-010-9199-y'
 [Empathy]: https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102 'Empathy. Oxford University Press. Retrieved 30 May. 2022, from https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095750102'
-[Hansen & Zalta, 2020]: https://plato.stanford.edu/archives/sum2020/entries/fallacies/ 'Hansen, H., & Zalta, E. (Ed.) (2020). Fallacies. The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/fallacies/'
+[Hansen & Zalta, 2020]: https://plato.stanford.edu/entries/metaphysics/ 'Hansen, H., & Zalta, E. (Ed.) (2020). Fallacies. The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/fallacies/'
 [Hosford, 2012]: https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1 'Hosford, W. F. (2012). Iron and Steel. United States: Cambridge University Press. https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1'
 [Nye, 2004]: https://doi.org/10.1080/1024529042000301971 'Nye, D. (2004). Regulatory myopia and public health: ‘tough' tobacco control?. Competition & Change, 8(3), 305-321. https://doi.org/10.1080/1024529042000301971'
 [Stevens, 2021]: https://doi.org/10.1080/10511431.2021.1897327 'Stevens, K. (2021). Charity for moral reasons?–A defense of the principle of charity in argumentation. Argumentation and Advocacy, 57(2), 67-84. https://doi.org/10.1080/10511431.2021.1897327'
