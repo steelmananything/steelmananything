@@ -20,3 +20,19 @@
 	float: left;
 	margin: 5px;
 }
+
+h2 ~ ol > li > ol {
+	list-style-type: lower-alpha;
+}
+
+h2 ~ ol > li > ol > li > ol {
+	list-style-type: lower-roman;
+}
+
+h2 ~ ol > li > ol > li > ol > li > ul {
+	list-style-type: upper-alpha;
+}
+
+h2 ~ ol > li > ol > li > ol > li > ul > li > ul {
+	list-style-type: upper-roman;
+}
