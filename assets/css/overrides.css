@@ -29,10 +29,10 @@ h2 ~ ol > li > ol > li > ol {
 	list-style-type: lower-roman;
 }
 
-h2 ~ ol > li > ol > li > ol > li > ul {
+h2 ~ ol > li > ol > li > ol > li > ol {
 	list-style-type: upper-alpha;
 }
 
-h2 ~ ol > li > ol > li > ol > li > ul > li > ul {
+h2 ~ ol > li > ol > li > ol > li > ol > li > ol {
 	list-style-type: upper-roman;
 }

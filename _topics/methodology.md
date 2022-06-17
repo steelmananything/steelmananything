@@ -16,27 +16,27 @@ Below are the core principles we try to follow. This might change over time as w
     1. [Experimental studies][Franklin et al., 2021] by experts in peer-reviewed, scientific journals
         1. [Meta-analyses and systematic reviews][Lasserson et al., 2022] of the following types of studies
         2. [Randomized controlled trial][Reiss et al., 2022] (RCT) experiments: Patients are randomly assigned to an intervention group or a control group (not receiving the intervention) and the groups are compared, hopefully controlling for [confounding variables][Lu, 2009]:
-             * Placebo-controlled: A placebo is assumed to have no or minimal effect
-             * Non-placebo-controlled
-             * Versions of the above two types:
-                 * Triple blinded (patient, experimenters, and data analyst)
-                 * Double blinded (patient and experimenters)
-                 * Single blinded (patient)
-                 * Unblinded
+             1. Placebo-controlled: A placebo is assumed to have no or minimal effect
+             2. Non-placebo-controlled
+             3. Versions of the above two types:
+                 1. Triple blinded (patient, experimenters, and data analyst)
+                 2. Double blinded (patient and experimenters)
+                 3. Single blinded (patient)
+                 4. Unblinded
         2. Experiments without a control group
-            * Experiments on groups
-            * Experiments on individuals (case studies)
+            1. Experiments on groups
+            2. Experiments on individuals (case studies)
         3. Experiments exploring a [mechanism of action][Craver et al., 2019]
     2. Correlational/observational studies by experts in peer-reviewed, scientific journals
         1. Meta-analyses and systematic reviews of the following types of studies
         2. [Cohort studies][Euser et al., 2009]: Follow one exposed group and a non-exposed group (control) and compare outcomes.
-            * Prospective: Baseline is assessed and then researchers actively follow patients to perform a follow-up: More accurate data collection
-            * Retrospective: Historical analysis of existing data
+            1. Prospective: Baseline is assessed and then researchers actively follow patients to perform a follow-up: More accurate data collection
+            2. Retrospective: Historical analysis of existing data
         3. [Case-control studies][Lu, 2009]: Follow one group with an outcome and another without an outcome (control) and compare exposure.
         4. [Cross-sectional studies][Lu, 2009]: Analyze whether individuals were exposed and whether they had certain outcomes and compare to those that didn't (control).
         5. Observations without a control group
-            * Observations of groups
-            * Observations of individuals (case studies)
+            1. Observations of groups
+            2. Observations of individuals (case studies)
         6. [Ecological studies][Lu, 2009]: Similar to cross-sectional studies but groups are analyzed instead of individuals
     3. Simulated [model][Frigg et al., 2020] results by experts in peer-reviewed, scientific journals
     4. Opinions by experts in peer-reviewed, scientific journals
@@ -53,13 +53,13 @@ Caveats:
     1. RCTs: [Simpson's Paradox][Sprenger et al., 2021]
 1. There are [potential issues][Ioannidis, 2005] with all types of evidence; for examples:
     1. Lacking or poor reproduction
-    1. Small effect sizes
-    1. Poor study design or methodology
-    1. Poor [external validity][Reiss et al., 2022]
-    1. Biases (conflicts of interest, funding sources)
-    1. Mistakes (data entry, variable coding, statistics, over-interpretation, etc.)
-    1. p-hacking
-    1. Fraud
+    2. Small effect sizes
+    3. Poor study design or methodology
+    4. Poor [external validity][Reiss et al., 2022]
+    5. Biases (conflicts of interest, funding sources)
+    6. Mistakes (data entry, variable coding, statistics, over-interpretation, etc.)
+    7. p-hacking
+    8. Fraud
 1. In some cases, evidence lower in the hierarchy may be stronger; for example, a well-done experiment might be stronger than a poorly done RCT.
 
 <!-- References -->
