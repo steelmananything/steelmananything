@@ -56,7 +56,7 @@ Caveats:
     2. Small effect sizes
     3. Poor study design or methodology
     4. Poor [external validity][Reiss et al., 2022]
-    5. Biases (conflicts of interest, funding sources)
+    5. Biases (conflicts of interest, funding sources, etc.)
     6. Mistakes (data entry, variable coding, statistics, over-interpretation, etc.)
     7. p-hacking
     8. Fraud
