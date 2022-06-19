@@ -54,9 +54,13 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      <p style="padding: 10px;">&nbsp;</p>
-      <p>Other topics:</p>
-      {% include nav_list nav=page.sidebar.nav shown=true %}
+      {% if page.sidebar %}
+        {% unless page.title == "About" %}
+          <p style="padding: 10px;">&nbsp;</p>
+          <p>Next topics:</p>
+          {% include nav_list nav=page.sidebar.nav shown=true %}
+        {% endunless %}
+      {% endif %}
 
       {% include post_pagination.html %}
     </div>
