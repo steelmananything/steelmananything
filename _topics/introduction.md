@@ -128,7 +128,7 @@ Formally:
 
 While it may be impossible to steelman some arguments in a way that everyone accepts, if the goal is to empathize with other people for the purpose of improving relations between all people and helping achieve the best possible world for everyone, then there is no better method than steelmanning (see the [all truth-seeking is hard response](#response-all-truth-seeking-is-hard-and-may-lead-to-such-damage-but-steelmanning-should-do-this-less)), and we should try our best to steelman as much as possible.
 
-Note: The multiple sections above discussing Dr. Gelman's argument was updated after he [graciously debated previous](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/#comment-2060894) versions of arguments.
+Note: The multiple sections above discussing Dr. Gelman's argument were [updated](https://github.com/steelmananything/steelmananything/commit/ad8531e39330d842f5f87dbcdb5ef4fa5afd391a) after he [graciously debated previous](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/#comment-2060894) versions of arguments.
 
 ### Ironmanning: Making an unreasonable argument reasonable
 
