@@ -103,7 +103,7 @@ Formally:
 
 ##### Response: Accepting any strawman isn't steelmanning; it's tinmanning
 
-Accepting any strawman while steelmanning -- even of someone who's not necessarily involved in the argument -- is a failure of steelmanning; instead, it's [tinmanning](#tinmanning-strawmanning-as-steelmanning). Person A should have also steelmanned Premise P1.
+Accepting any strawman while steelmanning -- even of someone who's not necessarily involved in the argument -- is a failure of steelmanning; instead, it's [tinmanning](#tinmanning-strawmanning-as-steelmanning). Person A should have also steelmanned Premise P1. In contrast, "addressing an argument as it is" is not necessarily designed to reduce strawmen. Even if such an approach did not include Premise P1, it may have strawmanned other premises.
 
 Formally:
 

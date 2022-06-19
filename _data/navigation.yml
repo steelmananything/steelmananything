@@ -20,6 +20,10 @@ topics:
         url: /topics/introduction/
       - title: "Methodology"
         url: /topics/methodology/
+  - title: Children
+    children:
+      - title: "Spanking"
+        url: /topics/spanking/
 
 videos:
   - title: Videos
