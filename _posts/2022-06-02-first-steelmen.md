@@ -56,7 +56,7 @@ Dr. Gelman's proposed alternative is:
 
 Steelmanning Dr. Gelman: If person A is steelmanning an argument of person B, person A might accept one of person B's premises as part of steelmanning (i.e. empathizing "for the sake of argument"). If person A didn't otherwise believe this premise and another person C considers this premise a strawman, then steelmanning introduced a strawman that Person A wouldn't have otherwise done if they were just "addressing the argument as it was".
 
-Response: Accepting any strawman while steelmanning -- even of someone who's not necessarily involved in the argument -- is a failure of steelmanning; instead, it's [tinmanning](/topics/introduction/#tinmanning-strawmanning-as-steelmanning). Person A should have also steelmanned Premise P1.
+Response: Accepting any strawman while steelmanning -- even of someone who's not necessarily involved in the argument -- is a failure of steelmanning; instead, it's [tinmanning](/topics/introduction/#tinmanning-strawmanning-as-steelmanning). Person A should have also steelmanned Premise P1. In contrast, "addressing an argument as it is" is not necessarily designed to reduce strawmen. Even if such an approach did not include Premise P1, it may have strawmanned other premises.
 
 In response to the above argument: Steelmanning an argument so that all people do not consider that it contains any strawmen may be impossible due to peoples' contradictory premises. Even if we grant in [the above example](/topics/introduction/#steelman-accepting-a-premise-from-one-person-may-strawman-someone-else) that, theoretically, Person A should have steelmanned Premise P1, there may be no way to steelman it in such a way that both Person B and Person C are happy.
 
