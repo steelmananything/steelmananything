@@ -262,6 +262,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:

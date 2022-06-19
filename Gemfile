@@ -14,6 +14,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "jekyll-target-blank"
 end
 
 gem "commonmarker", "~> 0.23.4"
