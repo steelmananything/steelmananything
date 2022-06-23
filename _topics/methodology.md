@@ -45,7 +45,7 @@ Below are the core principles we try to follow. This might change over time as w
     5. All of the above but not in peer-reviewed, scientific journals
     6. All of the above but not by experts
 
-Caveats:
+### Caveats
 
 1. There are [potential issues][Blunt, 2015] with the concept of a hierarchy of evidence.
 1. A lack of evidence higher in the hierarchy is not necessarily problematic due to [infeasibility][Smith & Pell, 2003], ethical issues, etc.
