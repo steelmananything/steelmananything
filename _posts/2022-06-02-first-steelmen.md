@@ -14,7 +14,7 @@ As a refresher of [our first post](/blog/welcome/) defining steelmanning, it is 
 
 ## Tinmanning
 
-Before we begin, let’s define another term: [Tinmanning](/topics/introduction/#tinmanning-strawmanning-as-steelmanning).
+Before we begin, let’s define another term: [Tinmanning](/topics/steelmanning/#tinmanning-strawmanning-as-steelmanning).
 
 Tinmanning is a fallacy when someone declares that they’re steelmanning but they’re actually strawmanning.
 
@@ -26,7 +26,7 @@ Tinmanning is a fallacy when someone declares that they’re steelmanning but th
 
 ### Steelmanning may be condescending, harmful, or arrogant
 
-[Ozy Brennan writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [tinmanning](/topics/introduction/#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
+[Ozy Brennan writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [tinmanning](/topics/steelmanning/#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
 
 > In the least obnoxious case [...] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
 > 
@@ -38,11 +38,11 @@ Tinmanning is a fallacy when someone declares that they’re steelmanning but th
 > 
 > You can say "but neither of those are actually steelmanning! Real steelmanning is being able to put other people's viewpoints in words they themselves find more compelling than their own arguments!" However, that is an extraordinarily rare and difficult skill; even most people who do it once can't do it consistently. Saying "to steelman position X..." should be interpreted the same way as saying "to express perfect loving kindness for all beings..." It's certainly a nice ideal which people might want to approach, and some people even manage to pull it off sometimes, but it's a bit arrogant to declare that you're definitely doing it. Even when you think you are, you usually aren't.
 
-Steelmanning Brennan: Even if a person is well-intentioned, steelmanning is very hard to do and thus often leads to [tinmanning](/topics/introduction/#tinmanning-strawmanning-as-steelmanning). Tinmanning may be condescending, harmful, or arrogant. Therefore, declaring that one is steelmanning usually fails and causes unnecessary damage. A better approach is to switch from the debating approach of steelmanning to a collaborative truth-seeking approach, understanding actual viewpoints, and seeking out well-informed advocates.
+Steelmanning Brennan: Even if a person is well-intentioned, steelmanning is very hard to do and thus often leads to [tinmanning](/topics/steelmanning/#tinmanning-strawmanning-as-steelmanning). Tinmanning may be condescending, harmful, or arrogant. Therefore, declaring that one is steelmanning usually fails and causes unnecessary damage. A better approach is to switch from the debating approach of steelmanning to a collaborative truth-seeking approach, understanding actual viewpoints, and seeking out well-informed advocates.
 
 Response: All forms of truth-seeking are hard and may lead to strawmanning which may lead to being condescending, harmful, or arrogant. The benefit of steelmanning is that it explicitly tries to avoid strawmanning through a foundation of empathy. By analogy, science is very hard, but it's better than the alternatives. The proposed alternative (truth-seeking collaboration, understand actual viewpoints, seek out well-informed advocates, and finding common ground) seems to be part of proper steelmanning.
 
-For more details of this argument, see the [Steelman Anything topic](/topics/introduction/#steelmanning-may-be-condescending-harmful-or-arrogant).
+For more details of this argument, see the [Steelman Anything topic](/topics/steelmanning/#steelmanning-may-be-condescending-harmful-or-arrogant).
 
 ### Steelmanning one argument may strawman another
 
@@ -56,13 +56,13 @@ Dr. Gelman's proposed alternative is:
 
 Steelmanning Dr. Gelman: If person A is steelmanning an argument of person B, person A might accept one of person B's premises as part of steelmanning (i.e. empathizing "for the sake of argument"). If person A didn't otherwise believe this premise and another person C considers this premise a strawman, then steelmanning introduced a strawman that Person A wouldn't have otherwise done if they were just "addressing the argument as it was".
 
-Response: Accepting any strawman while steelmanning -- even of someone who's not necessarily involved in the argument -- is a failure of steelmanning; instead, it's [tinmanning](/topics/introduction/#tinmanning-strawmanning-as-steelmanning). Person A should have also steelmanned Premise P1. In contrast, "addressing an argument as it is" is not necessarily designed to reduce strawmen. Even if such an approach did not include Premise P1, it may have strawmanned other premises.
+Response: Accepting any strawman while steelmanning -- even of someone who's not necessarily involved in the argument -- is a failure of steelmanning; instead, it's [tinmanning](/topics/steelmanning/#tinmanning-strawmanning-as-steelmanning). Person A should have also steelmanned Premise P1. In contrast, "addressing an argument as it is" is not necessarily designed to reduce strawmen. Even if such an approach did not include Premise P1, it may have strawmanned other premises.
 
-In response to the above argument: Steelmanning an argument so that all people do not consider that it contains any strawmen may be impossible due to peoples' contradictory premises. Even if we grant in [the above example](/topics/introduction/#steelman-accepting-a-premise-from-one-person-may-strawman-someone-else) that, theoretically, Person A should have steelmanned Premise P1, there may be no way to steelman it in such a way that both Person B and Person C are happy.
+In response to the above argument: Steelmanning an argument so that all people do not consider that it contains any strawmen may be impossible due to peoples' contradictory premises. Even if we grant in [the above example](/topics/steelmanning/#steelman-accepting-a-premise-from-one-person-may-strawman-someone-else) that, theoretically, Person A should have steelmanned Premise P1, there may be no way to steelman it in such a way that both Person B and Person C are happy.
 
-Response: While it may be impossible to steelman some arguments in a way that everyone accepts, if the goal is to empathize with other people for the purpose of improving relations between all people and helping achieve the best possible world for everyone, then there is no better method than steelmanning (see the [all truth-seeking is hard response](/topics/introduction/#response-all-truth-seeking-is-hard-and-may-lead-to-such-damage-but-steelmanning-should-do-this-less)), and we should try our best to steelman as much as possible.
+Response: While it may be impossible to steelman some arguments in a way that everyone accepts, if the goal is to empathize with other people for the purpose of improving relations between all people and helping achieve the best possible world for everyone, then there is no better method than steelmanning (see the [all truth-seeking is hard response](/topics/steelmanning/#response-all-truth-seeking-is-hard-and-may-lead-to-such-damage-but-steelmanning-should-do-this-less)), and we should try our best to steelman as much as possible.
 
-For more details of this argument, see the [Steelman Anything topic](/topics/introduction/#steelmanning-one-argument-may-strawman-another).
+For more details of this argument, see the [Steelman Anything topic](/topics/steelmanning/#steelmanning-one-argument-may-strawman-another).
 
 ### Ironmanning: Making an unreasonable argument reasonable
 

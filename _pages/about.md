@@ -7,7 +7,7 @@ toc: false
 sidebar: true
 ---
 
-Steelman Anything is based around the concept of [steelmanning](/topics/introduction/#what-is-steelmanning).
+Steelman Anything is based around the concept of [steelmanning](/topics/steelmanning/#what-is-steelmanning).
 
 The source code of this website is available at [GitHub.com](https://github.com/steelmananything/steelmananything). We welcome [contributions](https://github.com/steelmananything/steelmananything/blob/main/CONTRIBUTING.md#how-to-contribute) with issue reports and/or proposed edits.
 
