@@ -15,7 +15,11 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% if page.sidebar %}{% include sidebar.html %}{% endif %}
+  {% if page.sidebar %}
+    {% unless page.intropage %}
+      {% include sidebar.html %}
+    {% endunless %}
+  {% endif %}
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -44,6 +48,7 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
+      {% unless page.intropage %}
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -51,13 +56,16 @@ layout: default
         {% include page__taxonomy.html %}
         {% if page.showdate %}{% include page__date.html %}{% endif %}
       </footer>
+      {% endunless %}
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% if page.sidebar %}
         {% unless page.title == "About" %}
-          <p style="padding: 10px;">&nbsp;</p>
-          <p>Next topics:</p>
+          {% unless page.intropage %}
+            <p style="padding: 10px;">&nbsp;</p>
+            <p>Next topics:</p>
+          {% endunless %}
           {% include nav_list nav=page.sidebar.nav shown=true %}
         {% endunless %}
       {% endif %}

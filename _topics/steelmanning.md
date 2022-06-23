@@ -1,7 +1,6 @@
 ---
-title: "Introduction"
-permalink: /topics/introduction/
-excerpt: "Introduction to steelmanning."
+title: "What is Steelmanning?"
+permalink: /topics/steelmanning/
 last_modified_at: 2022-06-19T00:00:00-00:00
 toc: true
 ---

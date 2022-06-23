@@ -18,6 +18,8 @@ topics:
     children:
       - title: "Introduction"
         url: /topics/introduction/
+      - title: "What is Steelmanning?"
+        url: /topics/steelmanning/
       - title: "Methodology"
         url: /topics/methodology/
 
