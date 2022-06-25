@@ -5,7 +5,7 @@ last_modified_at: 2022-06-19T00:00:00-00:00
 toc: true
 ---
 
-## What is steelmanning?
+## Defining steelmanning
 
 ![Steelman](/assets/images/armor-2925348.png "Image by Momentmal from Pixabay"){:.floatright}
 Steelmanning is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Stueber & Zalta, 2019] with their positive intentions.
@@ -18,7 +18,7 @@ The main reason we like steelmanning here is its attempt to empathize with other
 
 ### Tinmanning: Strawmanning as steelmanning
 
-Tinmanning is a fallacy when someone declares that they're [steelmanning](#what-is-steelmanning) but they're actually strawmanning. ![Tinman](/assets/images/can-170837.png "Image by Veda Clark from Pixabay"){:.floatright}
+Tinmanning is a fallacy when someone declares that they're [steelmanning](#defining-steelmanning) but they're actually strawmanning. ![Tinman](/assets/images/can-170837.png "Image by Veda Clark from Pixabay"){:.floatright}
 
 Tin is a relatively soft metal compared to steel, so tinmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (a soft metal).
 
@@ -73,7 +73,7 @@ Formally:
 
 1. All forms of truth-seeking are hard and often lead to strawmanning (premise).
 2. Strawmanning may be condescending, harmful, or arrogant (premise).
-3. Steelmanning is better than all other approaches because it explicitly tries to avoid strawmanning through a foundation of empathy (premise; [by definition](#what-is-steelmanning)).
+3. Steelmanning is better than all other approaches because it explicitly tries to avoid strawmanning through a foundation of empathy (premise; [by definition](#defining-steelmanning)).
 4. Truth-seeking collaboration, understanding actual viewpoints, seeking out well-informed advocates, and finding common ground seem to be parts of proper steelmanning (premise).
 5. Therefore, despite steelmanning being very hard and possibly leading to negative emotions, this is true of all approaches, and steelmanning should do it the least (follows from 1, 2, 3, and 4).
 
@@ -106,7 +106,7 @@ Accepting any strawman while steelmanning -- even of someone who's not necessari
 
 Formally:
 
-1. Steelmanning strives to reduce or eliminate all strawmen (premise; [by definition](#what-is-steelmanning)).
+1. Steelmanning strives to reduce or eliminate all strawmen (premise; [by definition](#defining-steelmanning)).
 2. A steelman that worsens any strawman is a failure of steelmanning; instead, it's a tinman (premise; [by definition](#tinmanning-strawmanning-as-steelmanning)).
 3. While accepting a premise "for the sake of argument" is empathizing, there's more empathy in building a stronger premise that both persons B and C would accept.
 4. Person A's steelman should have steelmanned Premise P1 instead of just accepting it (follows from 1 and 3). 
