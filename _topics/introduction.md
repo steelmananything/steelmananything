@@ -6,4 +6,6 @@ share: false
 intropage: true
 ---
 
-Welcome to Steelman Anything. Choose a topic:
+Welcome to Steelman Anything. Choose a topic below.
+
+For updates, [subscribe to our Substack email newsletter](https://steelmananything.substack.com/).
