@@ -2,7 +2,7 @@
 title: "Methodology"
 permalink: /topics/methodology/
 excerpt: "Our methodology"
-last_modified_at: 2022-06-11T12:00:00-00:00
+last_modified_at: 2022-07-03T12:00:00-00:00
 toc: true
 ---
 
