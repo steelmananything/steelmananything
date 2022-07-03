@@ -47,7 +47,7 @@ Below are the core principles we try to follow. This might change over time as w
 
 ### Caveats
 
-1. There are [potential issues][Blunt, 2015] with the concept of a hierarchy of evidence.
+1. There are potential issues with the concept of a hierarchy of evidence<sup>[1][Stegenga, 2018],[2][Blunt, 2015]</sup>.
 1. A lack of evidence higher in the hierarchy is not necessarily problematic due to [infeasibility][Smith & Pell, 2003], ethical issues, etc.
 1. There are potential issues with specific types of evidence; for examples:
     1. RCTs: [Simpson's Paradox][Sprenger et al., 2021]
@@ -80,3 +80,4 @@ Below are the core principles we try to follow. This might change over time as w
 [Schünemann et al., 2022]: https://training.cochrane.org/handbook/current/chapter-14#section-14-2 'Schünemann, HJ., Higgins, JPT., Vist, GE., Glasziou, P., Akl, EA., Skoetz, N., & Guyatt, GH. (2022). Cochrane handbook for systematic reviews of interventions. Cochrane. https://training.cochrane.org/handbook/current'
 [Smith & Pell, 2003]: https://doi.org/10.1136/bmj.327.7429.1459 'Smith, G. C., & Pell, J. P. (2003). Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomised controlled trials. BMJ, 327(7429), 1459-1461. https://doi.org/10.1136/bmj.327.7429.1459'
 [Sprenger et al., 2021]: https://plato.stanford.edu/entries/paradox-simpson/ 'Sprenger, J., Weinberger, N., & Zalta, E. (Ed.) (2021). Simpson's Paradox. The Stanford Encyclopedia of Philosophy (Summer 2021 Edition). https://plato.stanford.edu/archives/sum2021/entries/paradox-simpson/'
+[Stegenga, 2018]: https://doi.org/10.1093/oso/9780198747048.001.0001 'Stegenga, J. (2018). Medical nihilism. Oxford University Press. https://doi.org/10.1093/oso/9780198747048.001.0001'
