@@ -20,12 +20,19 @@ module Jekyll
       results = ""
       if link_lines.size > 0
         results << "<h2 id=\"references\">References</h2>\n"
-        results << "<details>\n"
+        results << "<details id=\"referencesDetails\">\n"
         results << "<summary>#{link_lines.size} references</summary>\n"
         results << "<ol>\n"
         link_lines.each do |line|
+          shortref = line[1..line.index("]")]
+          shortrefid = shortref.gsub(/[^a-zA-Z0-9]/, "")
           line = line[line.index("'")+1..].strip.chomp("'")
-          results << "<li>#{Rinku.auto_link(Kramdown::Document.new(line, input: 'GFM').to_html, mode=:all, link_attr=nil, skip_tags=nil)}</li>\n"
+          if !line.index("&#013;&#013;").nil?
+            last = line.rindex("&#013;&#013;")
+            line = line[last+12..-1] + "\n\n" + line[0..last]
+            line = line.gsub("&#013;", "\n")
+          end
+          results << "<li id=\"reference_#{shortrefid}\">#{Rinku.auto_link(Kramdown::Document.new(line, input: 'GFM').to_html, mode=:all, link_attr=nil, skip_tags=nil)}</li>\n"
         end
         results << "</ol>\n"
         results << "</details>\n"
