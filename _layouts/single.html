@@ -46,6 +46,14 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {% if page.sidebar %}
+          {% unless page.title == "About" %}
+            {% unless page.intropage %}
+              {% render_references %}
+            {% endunless %}
+          {% endunless %}
+        {% endif %}
       </section>
 
       {% unless page.intropage %}

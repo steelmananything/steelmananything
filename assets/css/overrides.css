@@ -36,3 +36,7 @@ h2 ~ ol > li > ol > li > ol > li > ol {
 h2 ~ ol > li > ol > li > ol > li > ol > li > ol {
 	list-style-type: upper-roman;
 }
+
+details summary {
+  cursor: pointer;
+}
