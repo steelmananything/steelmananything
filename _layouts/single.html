@@ -71,8 +71,8 @@ layout: default
       {% if page.sidebar %}
         {% unless page.title == "About" %}
           {% unless page.intropage %}
-            <p style="padding: 10px;">&nbsp;</p>
-            <p>Other topics:</p>
+            <p style="padding: 10px;" class="no-print">&nbsp;</p>
+            <p class="no-print">Other topics:</p>
           {% endunless %}
           {% include nav_list nav=page.sidebar.nav shown=true %}
         {% endunless %}

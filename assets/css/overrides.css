@@ -1,42 +1,62 @@
 .page__footer-follow li {
-	text-transform: none;
+  text-transform: none;
 }
 
 .page__footer-follow a {
-	padding-right: 0;
+  padding-right: 0;
 }
 
 .page__content h3 {
-	border-bottom: 1px dashed #bfbfbf;
-	padding-bottom: 0.5em;
+  border-bottom: 1px dashed #bfbfbf;
+  padding-bottom: 0.5em;
 }
 
 .floatright {
-	float: right;
-	margin: 5px;
+  float: right;
+  margin: 5px;
 }
 
 .floatleft {
-	float: left;
-	margin: 5px;
+  float: left;
+  margin: 5px;
 }
 
 h2 ~ ol > li > ol {
-	list-style-type: lower-alpha;
+  list-style-type: lower-alpha;
 }
 
 h2 ~ ol > li > ol > li > ol {
-	list-style-type: lower-roman;
+  list-style-type: lower-roman;
 }
 
 h2 ~ ol > li > ol > li > ol > li > ol {
-	list-style-type: upper-alpha;
+  list-style-type: upper-alpha;
 }
 
 h2 ~ ol > li > ol > li > ol > li > ol > li > ol {
-	list-style-type: upper-roman;
+  list-style-type: upper-roman;
 }
 
 details summary {
   cursor: pointer;
+}
+
+@media print {
+  a[href^='http://']:after,
+  a[href^='https://']:after,
+  a[href^='ftp://']:after {
+    content: "" !important;
+  }
+
+  details summary {
+    display: none;
+  }
+
+  #references {
+    page-break-before: always;
+  }
+
+  ol, ul, li {
+    page-break-inside: auto !important;
+  }
 }
