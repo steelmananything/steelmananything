@@ -47,7 +47,7 @@ Below are the core principles we try to follow. This might change over time as w
 
 ### Caveats
 
-1. There are potential issues with the concept of a hierarchy of evidence<sup>[1][Stegenga, 2018],[2][Blunt, 2015]</sup>.
+1. There are potential issues with the concept of a hierarchy of evidence<sup>[a][Stegenga, 2018], [b][Blunt, 2015]</sup>.
 1. A lack of evidence higher in the hierarchy is not necessarily problematic due to [infeasibility][Smith & Pell, 2003], ethical issues, etc.
 1. There are potential issues with specific types of evidence; for examples:
     1. RCTs: [Simpson's Paradox][Sprenger et al., 2021]
