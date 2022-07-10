@@ -3,6 +3,7 @@ title: "COVID-19 Vaccine"
 permalink: /topics/children_vaccine_covid19/
 last_modified_at: 2022-07-10T12:00:00-00:00
 toc: true
+references: true
 ---
 
 ## Children aged 6 months to 4-5 years

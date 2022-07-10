@@ -4,6 +4,7 @@ categories:
   - Blog
 last_modified_at: 2022-07-10T12:00:00-00:00
 show_date: true
+references: true
 ---
 
 This article will try to [steelman](/topics/steelmanning/) the two main sides of this argument which we'll call **conventional** and **skeptical**.
