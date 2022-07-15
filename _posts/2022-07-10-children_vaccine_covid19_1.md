@@ -65,14 +65,14 @@ Pfizer performed a randomized, double-blind, saline placebo controlled trial ([U
     1. The vaccine effectiveness of avoiding COVID acquisition (at least 6 days after 3 doses):
         1. Children 6-23 months: 75.5% (95% confidence interval of -370.1% to 99.6%) ([U.S. FDA, 2022d](#U.S._FDA,_2022d)) with 1 case of COVID in the vaccine group (out of 277) versus 2 cases in the placebo group (out of 139).
         1. Children 2-4 years: 82.3% (95% confidence interval of -8.0% to 98.3%) ([U.S. FDA, 2022e](#U.S._FDA,_2022e)) with 2 cases of COVID in the vaccine group (out of 481) versus 5 cases in the placebo group (out of 209.
-    1. Vaccine effectiveness is visualized in the cumulative incidence curves ([U.S. FDA, 2022l](#U.S._FDA,_2022l)); for example, for ages 2-4:
+    1. Vaccine effectiveness is visualized in the cumulative incidence curves ([U.S. FDA, 2022l](#U.S._FDA,_2022l)) with the difference red line (placebo) showing higher COVID incidence than the blue line (vaccine); for example, for ages 2-4:
        ![Figure 2. Cumulative Incidence Curves for the First COVID-19 Occurrence After Dose 1, Participants 2-4 Years, All-Available Efficacy Population (U.S. FDA, 2022l)](/assets/images/research/fdapfizer1.png)
 2. **Skeptical**:
-    1. The 95% confidence intervals crossed 0, so the results are weak as admitted in the Pfizer report ([U.S. FDA, 2022o](#U.S._FDA,_2022o)) and the FDA thought the interpretation of results may be overestimated ([U.S. FDA, 2022s](#U.S._FDA,_2022s)).
+    1. The results were statistically weak (95% confidence intervals crossed 0) as admitted in the Pfizer report ([U.S. FDA, 2022o](#U.S._FDA,_2022o)) and the FDA thought the interpretation of results may be overestimated ([U.S. FDA, 2022s](#U.S._FDA,_2022s)).
     1. The results are preliminary ([U.S. FDA, 2022p](#U.S._FDA,_2022p)) as the study did not achieve the protocol-specified 21 cases (10 total were observed) and the study is still on-going.
     1. The only hospitalization for severe COVID occurred in a vaccine recipient ([](#U.S. FDA, 2022q)) and 6 out of 8 cases of severe COVID ([U.S. FDA, 2022x](#U.S._FDA,_2022x)) were in the vaccine group, although the definition of severe COVID was non-standard ([U.S. FDA, 2022ah](#U.S._FDA,_2022ah)) (i.e. including increased heart rate).
-    1. Vaccine effectiveness is only inferred ([U.S. FDA, 2022r](#U.S._FDA,_2022r)) based on immunobridging ([U.S. FDA, 2022ac](#U.S._FDA,_2022ac)) rather than clinically relevant endpoints like death, hospitalization, disease, etc.
-    1. The point estimates between dose 1 and dose 2 were negative ([U.S. FDA, 2022ad](#U.S._FDA,_2022ad); [U.S. FDA, 2022ae](#U.S._FDA,_2022ae)).
+    1. Vaccine effectiveness is only inferred ([U.S. FDA, 2022r](#U.S._FDA,_2022r)) based on immunobridging ([U.S. FDA, 2022ac](#U.S._FDA,_2022ac)) rather than clinically relevant endpoints like death, hospitalization, disease, etc. Immunobridging is comparing antibody levels to those of other age groups that did have clinically relevant endpoints evaluated and guessing that similar antibody levels will mean similar clinically relevant endpoints.
+    1. The point estimates between dose 1 and dose 2 were negative ([U.S. FDA, 2022ad](#U.S._FDA,_2022ad); [U.S. FDA, 2022ae](#U.S._FDA,_2022ae)) meaning that the vaccines might be associated with increased COVID as compared to the placebo group.
     1. The vaccine efficacy is likely to wane quickly ([U.S. FDA, 2022t](#U.S._FDA,_2022t)).
 
 ### Adverse events
@@ -87,7 +87,7 @@ Monitored for up to 2 months ([U.S. FDA, 2022k](#U.S._FDA,_2022k)) after the las
     1. There were more severe adverse reactions of grade ≥ 3 ([U.S. FDA, 2007](#U.S._FDA,_2007)) in the vaccine group than placebo: 4.3% vs. 3.6% ([Fleming-Dutra et al., 2022](#Fleming-Dutra_et_al.,_2022)).
     1. Some of the serious adverse events were considered by investigators and the FDA as potentially related to the vaccine ([U.S. FDA, 2022g](#U.S._FDA,_2022g)).
     1. Some patients were withdrawn ([U.S. FDA, 2022h](#U.S._FDA,_2022h)) after adverse events, some of which were considered by investigators and the FDA as potentially related to the vaccine.
-    1. Secondary re-analyses of mRNA RCTs in adults shows concerning signals about serious adverse events ([Fraiman et al., 2022](#Fraiman_et_al.,_2022)).
+    1. Secondary re-analyses of mRNA vaccine trials in adults shows concerning signals about serious adverse events ([Fraiman et al., 2022](#Fraiman_et_al.,_2022)).
 
 ### Vaccination in addition to natural immunity
 
@@ -96,7 +96,7 @@ Monitored for up to 2 months ([U.S. FDA, 2022k](#U.S._FDA,_2022k)) after the las
 2. **Skeptical**:
     1. Natural immunity for children is now likely above 75% ([U.S. FDA, 2022u](#U.S._FDA,_2022u)).
     1. There is disagreement ([Pugh et al., 2022](#Pugh_et_al.,_2022)) about the efficacy of natural immunity with and without vaccination.
-    1. The measured neutralizing antibodies in Pfizer's study were lower ([U.S. FDA, 2022w](#U.S._FDA,_2022w)) against the current Omicron variant compared to previous variants.
+    1. The measured antibodies in Pfizer's study were lower ([U.S. FDA, 2022w](#U.S._FDA,_2022w)) against the current Omicron variant compared to previous variants meaning it might be less effective for newer variants.
 
 ### Benefit/risk calculations
 
