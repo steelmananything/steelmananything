@@ -49,7 +49,7 @@ On June 17, 2022, the U.S. Food and Drug Administration (FDA) authorized ([U.S. 
     1. For children through 4 years old in the U.S., COVID-19 has killed fewer children than flu (influenza virus and pneumonia) as the underlying cause of death when comparing 2018-2019 to 2020-2022 ([Flaxman et al., 2022](#Flaxman_et_al.,_2022); [U.S. CDC, 2022k](#U.S._CDC,_2022k)).
     1. The hospitalization rate of COVID for children through 4 years old has been less than flu ([Delahoy et al., 2022](#Delahoy_et_al.,_2022)).
 1. Other potential risks: There are counter-arguments to the other listed risks:
-    1. Infecting others ([Ludvigsson, 2022](#Ludvigsson,_2022); [U.S. FDA, 2022aa](#U.S._FDA,_2022aa))
+    1. Infecting others in the community ([Ludvigsson, 2022](#Ludvigsson,_2022); [U.S. FDA, 2022aa](#U.S._FDA,_2022aa))
     1. COVID-associated myocarditis & pericarditis ([Tuvali et al., 2022](#Tuvali_et_al.,_2022))
     1. Long COVID ([Zimmermann et al., 2022](#Zimmermann_et_al.,_2022); [Zimmermann et al., 2021](#Zimmermann_et_al.,_2021); [Al-Aly et al., 2021](#Al-Aly_et_al.,_2021))
     1. Multisystem inflammatory syndrome in children (MIS-C) ([Yalçinkaya et al., 2022](#Yalcinkaya_et_al.,_2022))

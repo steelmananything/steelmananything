@@ -45,14 +45,14 @@ First, we'll summarize the two sides in one sentence each to give a feeling of w
 ### Other potential risks
 
 1. **Conventional**:
-    1. Infecting others ([Schleiss et al., 2021](#Schleiss_et_al.,_2021))
+    1. Infecting others in the community ([Schleiss et al., 2021](#Schleiss_et_al.,_2021))
     1. COVID-associated myocarditis ([Rodriguez-Gonzalez et al., 2020](#Rodriguez-Gonzalez_et_al.,_2020)) & pericarditis ([Kermani-Alghoraishi et al., 2021](#Kermani-Alghoraishi_et_al.,_2021))
     1. Long COVID ([Wise, 2021](#Wise,_2021))
     1. Multisystem inflammatory syndrome in children (MIS-C) ([Chin et al., 2022](#Chin_et_al.,_2022); [Feldstein et al., 2021](#Feldstein_et_al.,_2021); [Levy et al., 2022](#Levy_et_al.,_2022))
     1. Acquiring diabetes ([Barrett et al., 2022](#Barrett_et_al.,_2022))
     1. Impact of sickness on families (e.g. work) ([KFF, 2022](#KFF,_2022))
 2. **Skeptical** counter-arguments:
-    1. Infecting others ([Ludvigsson, 2022](#Ludvigsson,_2022); [U.S. FDA, 2022aa](#U.S._FDA,_2022aa))
+    1. Infecting others in the community ([Ludvigsson, 2022](#Ludvigsson,_2022); [U.S. FDA, 2022aa](#U.S._FDA,_2022aa))
     1. COVID-associated myocarditis & pericarditis ([Tuvali et al., 2022](#Tuvali_et_al.,_2022))
     1. Long COVID ([Zimmermann et al., 2022](#Zimmermann_et_al.,_2022); [Zimmermann et al., 2021](#Zimmermann_et_al.,_2021); [Al-Aly et al., 2021](#Al-Aly_et_al.,_2021))
     1. Multisystem inflammatory syndrome in children (MIS-C) ([Yalçinkaya et al., 2022](#Yalcinkaya_et_al.,_2022))
