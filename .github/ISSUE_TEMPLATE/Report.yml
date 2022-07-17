@@ -15,6 +15,6 @@ body:
     id: contents
     attributes:
       label: Details
-      description: Report an error and/or propose an edit
+      description: Report an error and/or propose an edit. If you want to just discuss something, [create a new discussion](https://github.com/steelmananything/steelmananything/discussions/new) instead.
     validations:
       required: true
