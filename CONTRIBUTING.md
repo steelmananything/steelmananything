@@ -19,7 +19,7 @@ We reserve the right to deny or accept (with or without changes) contributions f
 
 ### Writing
 
-We recommend using the free [Visual Studio Code tool](https://code.visualstudio.com/) for writing along with the [Spell Right extension](https://marketplace.visualstudio.com/items?itemName=ban.spellright). Spell checking with the extension is done automatically and errors are shown in the "Problems" view at the bottom. Any errors which are false positives should be added to the workspace dictionary by clicking on the word, then clicking the light bulb that shows above, and clicking "Add 'WORD' to workspace dictionary".
+We recommend using the free [Visual Studio Code tool](https://code.visualstudio.com/) for writing along with the [Spell Right extension](https://marketplace.visualstudio.com/items?itemName=ban.spellright). Spell checking with the extension is done automatically and errors are shown in the "Problems" view at the bottom. Any errors which are false positives should be added to the workspace dictionary by clicking on the word, then clicking the light bulb that shows above, and clicking "Add 'WORD' to workspace dictionary". If you accidentally choose to add to your "user dictionary," then delete it from `.config/Code/User/spellright.dict`.
 
 #### Markdown
 
