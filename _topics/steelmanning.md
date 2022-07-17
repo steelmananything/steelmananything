@@ -33,7 +33,7 @@ This term is a bit ambiguous because iron or steel products are sometimes coated
 
 ### Steelmanning may be condescending, harmful, or arrogant
 
-Ozy Brennan writes [Brennan, 2016](#Brennan,_2016) that when someone declares that they're steelmanning, they're usually [tinmanning](#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
+Ozy Brennan writes ([Brennan, 2016](#Brennan,_2016)) that when someone declares that they're steelmanning, they're usually [tinmanning](#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
 
 > In the least obnoxious case [...] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
 > 
