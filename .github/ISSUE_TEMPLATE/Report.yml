@@ -7,7 +7,7 @@ body:
     id: terms
     attributes:
       label: Contribution Guidelines
-      description: By submitting this issue, you agree to our [Contribution Guidelines](https://github.com/steelmananything/steelmananything/blob/main/CONTRIBUTING.md#how-to-contribute)
+      description: By submitting this issue, you agree to our [Contribution Guidelines](https://github.com/steelmananything/steelmananything/blob/main/CONTRIBUTING.md#how-to-contribute), including releasing any contributions into the public domain with the [CC0 license](https://github.com/steelmananything/steelmananything/blob/main/LICENSE.txt) by waiving all copyright and related or neighboring rights to any contributed content.
       options:
         - label: I agree to follow this project's Contribution Guidelines
           required: true
