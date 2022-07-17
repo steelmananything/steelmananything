@@ -41,7 +41,7 @@ Reference citations within the text using the normal [Author–Date Citation](ht
 
 > One of the articles on DNA Sanger sequencing (\[Sanger et al., 1977\](#Sanger_et_al.,_1977)) describes a faster and more accurate method than the original plus or minus method.
 
-Originally, we used the reference-style links in Markdown (i.e. `[Sanger et al., 1977][]`). This had the nice feature that anything within the apostrophes of the citation was placed in the `title` of the link and quickly seen as a hover tooltip with the mouse; however, we received feedback that, first, this doesn't work on mobile, and second, this means that citations aren't explicitly written which means they're not seen when printing. Therefore, we chose to have normal links that take the reader to the references section and from there they can go to the underlying reference link.
+Originally, we used the reference-style links in Markdown (i.e. `[Sanger et al., 1977][]`). This had the nice feature that anything within the apostrophes of the citation was quickly seen as a hover tooltip with the mouse; however, we received feedback that, first, this doesn't work on mobile, and second, this means that citations aren't explicitly written which means they're not seen when printing. Therefore, we chose to have normal links that take the reader to the references section and from there they can go to the underlying reference link.
 
 #### Citation tips
 
