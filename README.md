@@ -30,6 +30,11 @@ All content is licensed in the public domain with the [CC0 license](LICENSE.txt)
 1. `bundle exec jekyll build`
 2. `rsync -rlpt --progress --delete _site/* $SERVER:$DIRECTORY`
 
+### Copying to Substack
+
+1. If copying from a blog post that primarily references a topic page, add the query `?nopermalinks=true&anchorroot=/topics/.../`
+2. Otherwise, just add `?nopermalinks=true`
+
 ### Nginx configuration
 
 ```
