@@ -12,6 +12,17 @@ try {
     }
   }
 
+  $(document).ready(function() {
+    if (window.location.search.search(/[?&]nopermalinks/) !== -1) {
+      var anchors = document.getElementsByTagName("a");
+      for (var i = 0; i < anchors.length; i++) {
+        if (anchors[i].className == "header-link") {
+          anchors[i].className += " hidden";
+        }
+      }
+    }
+  });
+
   /*
   if (window.location.search.search(/[?&]expand/) !== -1) {
     const allDetails = document.body.querySelectorAll('details');
