@@ -2,12 +2,12 @@
 title: "Should children aged 6 months through 4 years get the Pfizer COVID-19 vaccine?"
 categories: 
   - Blog
-last_modified_at: 2022-07-15T12:00:00-00:00
+last_modified_at: 2022-07-17T12:00:00-00:00
 show_date: true
 references: true
 ---
 
-This article will try to [steelman](/topics/steelmanning/) the two main sides of this argument which we'll call **conventional** and **skeptical**.
+This article [steelmans](/topics/steelmanning/) the two main sides of this argument which we'll call **conventional** and **skeptical**.
 
 First, we'll summarize the two sides in one sentence each to give a feeling of where we're going. Next, we'll list the main justifications. Finally, we'll dive into the details and citations for those interested.
 

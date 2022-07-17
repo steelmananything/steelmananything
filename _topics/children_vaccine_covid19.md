@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Vaccine"
 permalink: /topics/children_vaccine_covid19/
-last_modified_at: 2022-07-15T12:00:00-00:00
+last_modified_at: 2022-07-17T12:00:00-00:00
 toc: true
 references: true
 ---
