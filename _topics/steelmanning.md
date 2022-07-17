@@ -9,9 +9,9 @@ references: true
 ## Defining steelmanning
 
 ![Steelman](/assets/images/armor-2925348.png "Image by Momentmal from Pixabay"){:.floatright}
-Steelmanning is another name for the [principle of charity in argumentation][Stevens, 2021] that tries to make the strongest possible argument for someone by [empathizing][Stueber & Zalta, 2019] with their positive intentions.
+Steelmanning is another name for the principle of charity in argumentation ([Stevens, 2021](#Stevens,_2021)) that tries to make the strongest possible argument for someone by empathizing ([Stueber & Zalta, 2019](#Stueber_&_Zalta,_2019)) with their positive intentions.
 
-Steelmanning gets its name as the opposite of strawmanning. [Strawmanning][Aikin & Casey, 2011] is an argumentation [fallacy][Hansen & Zalta, 2020] in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. ![Strawman](/assets/images/autumn-2931460.jpg "Image by MajKaRate from Pixabay"){:.floatright} Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a [strong metal alloy][Hosford, 2012].
+Steelmanning gets its name as the opposite of strawmanning. Strawmanning ([Aikin & Casey, 2011](#Aikin_&_Casey,_2011)) is an argumentation fallacy ([Hansen & Zalta, 2020](#Hansen_&_Zalta,_2020)) in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. ![Strawman](/assets/images/autumn-2931460.jpg "Image by MajKaRate from Pixabay"){:.floatright} Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a strong metal alloy ([Hosford, 2012](#Hosford,_2012)).
 
 The main reason we like steelmanning here is its attempt to empathize with other people instead of just trying to win arguments. We hope that steelmanning improves relations between people and helps achieve the best possible world for everyone.
 
@@ -33,7 +33,7 @@ This term is a bit ambiguous because iron or steel products are sometimes coated
 
 ### Steelmanning may be condescending, harmful, or arrogant
 
-[Ozy Brennan writes](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) that when someone declares that they're steelmanning, they're usually [tinmanning](#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
+Ozy Brennan writes [Brennan, 2016](#Brennan,_2016) that when someone declares that they're steelmanning, they're usually [tinmanning](#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
 
 > In the least obnoxious case [...] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
 > 
@@ -80,7 +80,7 @@ Formally:
 
 ### Steelmanning one argument may strawman another
 
-[Dr. Gelman argues](https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/) that steelmanning one argument may strawman another:
+Dr. Gelman argues ([Gelman, 2022](#Gelman,_2022)) that steelmanning one argument may strawman another:
 
 > [Steelmanning] can lead to being uncharitable or "strawmanning" of other positions that are being opposed or caricatured by the people you are steelmanning.
 
@@ -142,6 +142,8 @@ In our opinion, accusations of ironmanning aren't very useful unless the accuser
 <!-- References -->
 
 [Aikin & Casey, 2011]: https://doi.org/10.1007/s10503-010-9199-y 'Aikin, S. F., & Casey, J. (2011). Straw men, weak men, and hollow men. Argumentation, 25(1), 87-105. https://doi.org/10.1007/s10503-010-9199-y'
+[Brennan, 2016]: https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/ 'Brennan, O. (2016). Against Steelmanning. Retrieved July, 2022, from https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/'
+[Gelman, 2022]: https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/ 'Gelman, A. (2022). Why I’m skeptical of “steelmanning”: By bending over backward to see things from the other person’s point of view, you’re implicitly dismissing other perspectives. Retrieved July, 2022, from https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/'
 [Hansen & Zalta, 2020]: https://plato.stanford.edu/entries/metaphysics/ 'Hansen, H., & Zalta, E. (Ed.) (2020). Fallacies. The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/fallacies/'
 [Hosford, 2012]: https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1 'Hosford, W. F. (2012). Iron and Steel. United States: Cambridge University Press. https://www.google.com/books/edition/Iron_and_Steel/7D0gAwAAQBAJ?hl=en&gbpv=1'
 [Nye, 2004]: https://doi.org/10.1080/1024529042000301971 'Nye, D. (2004). Regulatory myopia and public health: ‘tough' tobacco control?. Competition & Change, 8(3), 305-321. https://doi.org/10.1080/1024529042000301971'
