@@ -1,7 +1,7 @@
 # https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
 # https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
 name: Report
-description: Report an error, propose an edit, or start a discussion
+description: Report an error and/or propose an edit
 body:
   - type: checkboxes
     id: terms
@@ -15,6 +15,6 @@ body:
     id: contents
     attributes:
       label: Details
-      description: Report an error, propose an edit, or start a discussion
+      description: Report an error and/or propose an edit
     validations:
       required: true
