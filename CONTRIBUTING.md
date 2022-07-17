@@ -9,7 +9,7 @@ By contributing, you must agree to release your contributions into the public do
 A [free GitHub.com account](https://github.com/signup) is required to contribute using the methods below:
 
 1. If you'd like to discuss something, you may [open a new discussion](https://github.com/steelmananything/steelmananything/discussions/new).
-1. If you found a problem, you may [open a new issue](https://github.com/steelmananything/steelmananything/issues/new?assignees=&labels=&template=Report.yml).
+1. If you found a problem and/or want to propose an edit, you may [open a new issue](https://github.com/steelmananything/steelmananything/issues/new?assignees=&labels=&template=Report.yml).
 1. You may propose an edit to the site using a method below. Content is authored in [GitHub Flavored Markdown](https://github.github.com/gfm/).
     1. Navigate to a page [in the code](https://github.com/steelmananything/steelmananything/tree/main) -- for example, the ['What is Steelmanning?'](https://github.com/steelmananything/steelmananything/blob/main/_topics/steelmanning.md) page -- click the pencil edit button, make your change, and click Commit changes.
     1. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
