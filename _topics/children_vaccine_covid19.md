@@ -14,9 +14,9 @@ On June 17, 2022, the U.S. Food and Drug Administration (FDA) authorized ([U.S. 
 
 1. Deaths and hospitalizations:
     1. For children through 4 years old in the U.S., COVID as the underlying cause of death ([U.S. CDC, 2022j](#U.S._CDC,_2022j)) is estimated to have killed 54 children in 2020, 145 in 2021 (provisional), and 71 in 2022 (provisional through June).
+    1. Thousands of children per year through 4 years old in the U.S. have had COVID-19-associated hospitalization ([U.S. CDC, 2022](#U.S._CDC,_2022)), with a relative surge during Omicron ([Marks et al., 2022](#Marks_et_al.,_2022)) that was comprised of 85% with COVID-19 as the primary reason for admission ([Marks et al., 2022d](#Marks_et_al.,_2022d)), 63% with no underlying medical condition ([Marks et al., 2022c](#Marks_et_al.,_2022c)), and 21% ended up in the Intensive Care Unit (ICU) ([Marks et al., 2022b](#Marks_et_al.,_2022b)).
     1. Although only correlational, there is an association between vaccination and lower incidence of deaths in ages 5 and up ([U.S. CDC, 2022m](#U.S._CDC,_2022m); [Johnson et al., 2022](#Johnson_et_al.,_2022)):
        ![Rates of COVID-19 Deaths by Vaccination Status in Ages 5+ Years (U.S. CDC, 2022m)](/assets/images/research/deathbyvaccinationstatus.png)
-    1. Thousands of children per year through 4 years old in the U.S. have had COVID-19-associated hospitalization ([U.S. CDC, 2022](#U.S._CDC,_2022)), with a relative surge during Omicron ([Marks et al., 2022](#Marks_et_al.,_2022)) that was comprised of 85% with COVID-19 as the primary reason for admission ([Marks et al., 2022d](#Marks_et_al.,_2022d)), 63% with no underlying medical condition ([Marks et al., 2022c](#Marks_et_al.,_2022c)), and 21% ended up in the Intensive Care Unit (ICU) ([Marks et al., 2022b](#Marks_et_al.,_2022b)).
 1. Other potential risks of COVID-19 in children through 4 years old:
     1. Infecting others in the community ([Schleiss et al., 2021](#Schleiss_et_al.,_2021))
     1. COVID-associated myocarditis ([Rodriguez-Gonzalez et al., 2020](#Rodriguez-Gonzalez_et_al.,_2020)) & pericarditis ([Kermani-Alghoraishi et al., 2021](#Kermani-Alghoraishi_et_al.,_2021))
