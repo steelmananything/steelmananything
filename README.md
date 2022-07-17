@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the source of the Steelman Anything website at <https://steelmananything.com/>. The main topics are in the [_topics](tree/main/_topics) folder.
+This is the source of the Steelman Anything website at <https://steelmananything.com/>. The main topics are in the [_topics](_topics) folder.
 
 We welcome contributions but please first review the [contribution guidelines](CONTRIBUTING.md).
 
