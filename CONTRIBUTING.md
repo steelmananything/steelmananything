@@ -8,10 +8,11 @@ By contributing, you must agree to release your contributions into the public do
 
 A [free GitHub.com account](https://github.com/signup) is required to contribute using the methods below:
 
-1. You may [open an issue](https://github.com/steelmananything/steelmananything/issues/new?assignees=&labels=&template=Report.yml) to report an error, propose an edit, or start a discussion.
-2. You may propose an edit to the site using a method below. Content is authored in [GitHub Flavored Markdown](https://github.github.com/gfm/).
+1. If you'd like to discuss something, you may [open a new discussion](https://github.com/steelmananything/steelmananything/discussions/new).
+1. If you found a problem, you may [open a new issue](https://github.com/steelmananything/steelmananything/issues/new?assignees=&labels=&template=Report.yml).
+1. You may propose an edit to the site using a method below. Content is authored in [GitHub Flavored Markdown](https://github.github.com/gfm/).
     1. Navigate to a page [in the code](https://github.com/steelmananything/steelmananything/tree/main) -- for example, the ['What is Steelmanning?'](https://github.com/steelmananything/steelmananything/blob/main/_topics/steelmanning.md) page -- click the pencil edit button, make your change, and click Commit changes.
-    2. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+    1. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 We reserve the right to deny or accept (with or without changes) contributions for any reason.
 
@@ -20,6 +21,17 @@ We reserve the right to deny or accept (with or without changes) contributions f
 ### Writing
 
 We recommend using the free [Visual Studio Code tool](https://code.visualstudio.com/) for writing along with the [Spell Right extension](https://marketplace.visualstudio.com/items?itemName=ban.spellright). Spell checking with the extension is done automatically and errors are shown in the "Problems" view at the bottom. Any errors which are false positives should be added to the workspace dictionary by clicking on the word, then clicking the light bulb that shows above, and clicking "Add 'WORD' to workspace dictionary".
+
+#### Markdown
+
+We use [GitHub-flavored Markdown](https://github.github.com/gfm/) as the source of the content. Some tips:
+
+1. When using numbered lists, always use the number `1`. These will be automatically numbered in the final output and avoiding manual numbering makes it easier to re-order things if needed. For example:
+   ```
+   1. First item
+   1. Second item
+   1. Third item
+   ```
 
 ### Citations
 
