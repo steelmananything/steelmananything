@@ -27,19 +27,13 @@ There should be a `<!-- References -->` section at the bottom of the Markdown fi
 
 For example:
 
-```
-<!-- References -->
-
-[Sanger et al., 1977]: https://www.pnas.org/doi/pdf/10.1073/pnas.74.12.5463 'Sanger, F., Nicklen, S., & Coulson, A. R. (1977). DNA sequencing with chain-terminating inhibitors. Proceedings of the national academy of sciences, 74(12), 5463-5467. https://doi.org/10.1073/pnas.74.12.5463'
-```
+`[Sanger et al., 1977]: https://www.pnas.org/doi/pdf/10.1073/pnas.74.12.5463 'Sanger, F., Nicklen, S., & Coulson, A. R. (1977). DNA sequencing with chain-terminating inhibitors. Proceedings of the national academy of sciences, 74(12), 5463-5467. https://doi.org/10.1073/pnas.74.12.5463'`
 
 The Author–Date will be converted to an anchor link so it [should not include](https://stackoverflow.com/a/2849800) any characters other than a-z, A-Z, 0-9, &, !, $, ', (, ), *, +, ,, ;, =, -, ., _, ~, :, @, /, and ?. Most commonly, this means replacing characters with an accent with a close analog (e.g. `ü` with `u`). Such characters should be left in the APA Citation.
 
 If a quote or comment is included, place it after the first apostrophe and follow it with `&#013;&#013;` (which may be used additionally at any point in the quote or comment as line breaks). If the first link is to a PDF, include the page number, if applicable, with `#page=4`. For example:
 
-```
-[Sanger et al., 1977]: https://www.pnas.org/doi/pdf/10.1073/pnas.74.12.5463#page=4 '"The method described here has a number of advantages over the plus and minus methods." (Page 4).&#013;&#013;Sanger, F., Nicklen, S., & Coulson, A. R. (1977). DNA sequencing with chain-terminating inhibitors. Proceedings of the national academy of sciences, 74(12), 5463-5467. https://doi.org/10.1073/pnas.74.12.5463'
-```
+`[Sanger et al., 1977]: https://www.pnas.org/doi/pdf/10.1073/pnas.74.12.5463#page=4 '"The method described here has a number of advantages over the plus and minus methods." (Page 4).&#013;&#013;Sanger, F., Nicklen, S., & Coulson, A. R. (1977). DNA sequencing with chain-terminating inhibitors. Proceedings of the national academy of sciences, 74(12), 5463-5467. https://doi.org/10.1073/pnas.74.12.5463'`
 
 #### Citation tips
 
@@ -49,8 +43,6 @@ One common way to get the APA citation is to search for the resource on [Google 
 
 Reference citations within the text using the normal [Author–Date Citation](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date) format. The reference should be a Markdown link with the link being `#` followed by the Author–Date Citation with spaces replaced with underscores. The most common case is to note the reference parenthetically; for example:
 
-```
-One of the articles on DNA Sanger sequencing ([Sanger et al., 1977](#Sanger_et_al.,_1977)) describes a faster and more accurate method than the original plus or minus method.
-```
+> One of the articles on DNA Sanger sequencing (\[Sanger et al., 1977\](#Sanger_et_al.,_1977)) describes a faster and more accurate method than the original plus or minus method.
 
 Originally, we used the reference-style links in Markdown (i.e. `[Sanger et al., 1977][]`). This had the nice feature that anything within the apostrophes of the citation was placed in the `title` of the link and quickly seen as a hover tooltip with the mouse; however, we received feedback that, first, this doesn't work on mobile, and second, this means that citations aren't explicitly written which means they're not seen when printing. Therefore, we chose to have normal links that take the reader to the references section and from there they can go to the underlying reference link.
