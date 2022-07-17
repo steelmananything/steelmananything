@@ -15,6 +15,8 @@ The source code of this website is available at [GitHub.com](https://github.com/
 
 ## Additional Links
 
+* [Topics](/topics/)
+* [Substack Newsletter](https://steelmananything.substack.com/)
 * [Privacy Policy](/privacy/)
 * [License](/license/)
 * [Sitemap](/sitemap/)
