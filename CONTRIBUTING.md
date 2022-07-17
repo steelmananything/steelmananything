@@ -17,6 +17,10 @@ We reserve the right to deny or accept (with or without changes) contributions f
 
 ## Standards
 
+### Writing
+
+We recommend using the free [Visual Studio Code tool](https://code.visualstudio.com/) for writing along with the [Spell Right extension](https://marketplace.visualstudio.com/items?itemName=ban.spellright). Spell checking with the extension is done automatically and errors are shown in the "Problems" view at the bottom. Any errors which are false positives should be added to the workspace dictionary by clicking on the word, then clicking the light bulb that shows above, and clicking "Add 'WORD' to workspace dictionary".
+
 ### Citations
 
 There should be a `<!-- References -->` section at the bottom of the Markdown file where references are placed (in alphabetic order). See an example on the [methodology page](https://github.com/steelmananything/steelmananything/blob/179eb2b/_topics/methodology.md?plain=1#L71). We use the [APA style](https://apastyle.apa.org/style-grammar-guidelines/references/examples) with Markdown characteristics which is the [Author–Date Citation](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date) in square brackets, followed by a colon and space, then a link, then a space, then an apostrophe, then the APA citation, then a space, then the link again, and finally an apostrophe. If the link is a `http://doi.org/` link, but there is a public download available, then the first link should be the public download link, and the final link should be the DOI link.
