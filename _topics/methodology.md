@@ -67,7 +67,7 @@ Below are the core principles we try to follow. This might change over time as w
     1. Biases (conflicts of interest, funding sources, etc.)
     1. Mistakes (data entry, variable coding, statistics, over-interpretation, etc.)
     1. Multiple comparisons ([Bennett et al., 2009](#Bennett_et_al.,_2009))
-    1. p-hacking, research degrees of freedom, multiple potential comparisons, or fishing expeditions ([Simmons et al., 2016](#Simmons_et_al.,_2016); [Humphreys et al., 2013](#Humphreys_et_al.,_2013); [Gelman & Loken, 2013](#Gelman_&_Loken,_2013))
+    1. p-hacking, researcher degrees of freedom, multiple potential comparisons, or fishing expeditions ([Simmons et al., 2016](#Simmons_et_al.,_2016); [Humphreys et al., 2013](#Humphreys_et_al.,_2013); [Gelman & Loken, 2013](#Gelman_&_Loken,_2013))
     1. Poor incentives ([Nosek et al., 2012](#Nosek_et_al.,_2012))
     1. Poor instrument or method reliability ([Vul et al., 2009](#Vul_et_al.,_2009))
     1. Fraud
