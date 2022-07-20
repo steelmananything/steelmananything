@@ -9,7 +9,7 @@ references: true
 
 While [steelmanning](/topics/steelmanning/) whether children 6 months through 4 years [should get the Pfizer vaccine or not](https://steelmananything.substack.com/p/should-children-aged-6-months-through), a controversy was highlighted over the [Flaxman et al. (2022)](#Flaxman_et_al.,_2022) paper. This paper was used prominently by the U.S. CDC during its vaccine approval process ([U.S. CDC, 2022](#U.S._CDC,_2022)).
 
-The controversy started after "a mother who reviews this data on my personal time" reported the error on Twitter to the study's main author, Dr. Flaxman ([Kelley, 2022](#Kelley,_2022); [Kelley, 2022b](#Kelley,_2022b)). He admitted to the error on Twitter ([Flaxman, 2022](#Flaxman,_2022)). The study was subsequently fixed and re-published, and significantly changed the results: "We have fixed an error" ([Flaxman et al., 2022c](#Flaxman_et_al.,_2022c)).
+The controversy started after "a mother who reviews this data on my personal time" reported an error about the reported death rates on Twitter to the study's main author, Dr. Flaxman ([Kelley, 2022](#Kelley,_2022); [Kelley, 2022b](#Kelley,_2022b)). Dr. Flaxman admitted to the error on Twitter ([Flaxman, 2022](#Flaxman,_2022)). The study was subsequently fixed and re-published, and significantly changed the results: "We have fixed an error" ([Flaxman et al., 2022c](#Flaxman_et_al.,_2022c)).
 
 One might think, "that's unfortunate but that's just science in action". The paper was used by the CDC prominently, but one might think, "that's just an unfortunate mistake in a fluid situation and the vaccine would have been approved anyway due to other evidence".
 
