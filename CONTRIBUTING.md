@@ -61,3 +61,24 @@ Originally, we used the reference-style links in Markdown (i.e. `[Sanger et al.,
 #### Citation tips
 
 One common way to get the APA citation is to search for the resource on [Google Scholar](https://scholar.google.com/), click the "Cite" link and copy the APA section.
+
+### Images
+
+We use a plugin for images instead of Markdown because we want to output explicit dimensions:
+
+* Without a link and underlying image is greater than 600px:
+  ```
+  {% imagesize /assets/images/image.png:img?width=600 alt="ALT TEXT" %}
+  ```
+* Without a link and underlying image is less than 600px:
+  ```
+  {% imagesize /assets/images/image.png:img alt="ALT TEXT" %}
+  ```
+* With a link and underlying image is greater than 600px:
+  ```
+  [{% imagesize /assets/images/image.png:img?width=600 alt="ALT TEXT" %}](/assets/images/image.png)
+  ```
+* With a link and underlying image is less than 600px:
+  ```
+  [{% imagesize /assets/images/image.png:img alt="ALT TEXT" %}](/assets/images/image.png)
+  ```
