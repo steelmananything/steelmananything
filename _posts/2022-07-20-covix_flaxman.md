@@ -36,11 +36,11 @@ We reached out with questions to Dr. Flaxman, Dr. Daley, Dr. Fleming-Dutra, and 
 
 Below are the slides the CDC used during its presentation to the approval committees ([U.S. CDC, 2022](#U.S._CDC,_2022); [U.S. CDC, 2022b](#U.S._CDC,_2022b); [U.S. CDC, 2022c](#U.S._CDC,_2022c)).
 
-![COVID-19 was a leading cause of death among children ages 0 – 4 years (U.S. CDC, 2022)](/assets/images/research/cdcchildrendeath.png)
+[{% imagesize /assets/images/research/cdcchildrendeath.png:img?width=600 alt="COVID-19 was a leading cause of death among children ages 0 – 4 years (U.S. CDC, 2022)" %}](/assets/images/research/cdcchildrendeath.png)
 
-![COVID-19 is a leading cause of death among infants age <1 year (U.S. CDC, 2022b)](/assets/images/research/cdcchildrendeath2.png)
+[{% imagesize /assets/images/research/cdcchildrendeath2.png:img?width=600 alt="COVID-19 is a leading cause of death among infants age <1 year (U.S. CDC, 2022b)" %}](/assets/images/research/cdcchildrendeath2.png)
 
-![COVID-19 is a leading cause of death among children ages 1–4 years (U.S. CDC, 2022c)](/assets/images/research/cdcchildrendeath3.png)
+[{% imagesize /assets/images/research/cdcchildrendeath3.png:img?width=600 alt="COVID-19 is a leading cause of death among children ages 1–4 years (U.S. CDC, 2022c)" %}](/assets/images/research/cdcchildrendeath3.png)
 
 <!-- References -->
 

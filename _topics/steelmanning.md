@@ -8,10 +8,9 @@ references: true
 
 ## Defining steelmanning
 
-![Steelman](/assets/images/armor-2925348.png "Image by Momentmal from Pixabay"){:.floatright}
-Steelmanning is another name for the principle of charity in argumentation ([Stevens, 2021](#Stevens,_2021)) that tries to make the strongest possible argument for someone by empathizing ([Stueber & Zalta, 2019](#Stueber_&_Zalta,_2019)) with their positive intentions.
+{% imagesize /assets/images/armor-2925348.png:img class="floatright" alt="Steelman" title="Image by Momentmal from Pixabay" %}Steelmanning is another name for the principle of charity in argumentation ([Stevens, 2021](#Stevens,_2021)) that tries to make the strongest possible argument for someone by empathizing ([Stueber & Zalta, 2019](#Stueber_&_Zalta,_2019)) with their positive intentions.
 
-Steelmanning gets its name as the opposite of strawmanning. Strawmanning ([Aikin & Casey, 2011](#Aikin_&_Casey,_2011)) is an argumentation fallacy ([Hansen & Zalta, 2020](#Hansen_&_Zalta,_2020)) in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. ![Strawman](/assets/images/autumn-2931460.jpg "Image by MajKaRate from Pixabay"){:.floatright} Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a strong metal alloy ([Hosford, 2012](#Hosford,_2012)).
+Steelmanning gets its name as the opposite of strawmanning. Strawmanning ([Aikin & Casey, 2011](#Aikin_&_Casey,_2011)) is an argumentation fallacy ([Hansen & Zalta, 2020](#Hansen_&_Zalta,_2020)) in which a person's argument is made into a man of straw -- easy to knock down -- and then this strawman is argued against instead of what the person really meant. {% imagesize /assets/images/autumn-2931460.jpg:img class="floatright" alt="Strawman" title="Image by MajKaRate from Pixabay" %}Straw conveys weakness because it's made from dry plant stalks whereas steel conveys strength because it's a strong metal alloy ([Hosford, 2012](#Hosford,_2012)).
 
 The main reason we like steelmanning here is its attempt to empathize with other people instead of just trying to win arguments. We hope that steelmanning improves relations between people and helps achieve the best possible world for everyone.
 
@@ -19,7 +18,7 @@ The main reason we like steelmanning here is its attempt to empathize with other
 
 ### Tinmanning: Strawmanning as steelmanning
 
-Tinmanning is a fallacy when someone declares that they're [steelmanning](#defining-steelmanning) but they're actually strawmanning. ![Tinman](/assets/images/can-170837.png "Image by Veda Clark from Pixabay"){:.floatright}
+Tinmanning is a fallacy when someone declares that they're [steelmanning](#defining-steelmanning) but they're actually strawmanning. {% imagesize /assets/images/can-170837.png:img class="floatright" alt="Tinman" title="Image by Veda Clark from Pixabay" %}
 
 Tin is a relatively soft metal compared to steel, so tinmanning is meant to convey that the argument superficially looks like a steelman (it's metal) but it's actually weak like a strawman (a soft metal).
 
@@ -132,8 +131,7 @@ Note: The multiple sections above discussing Dr. Gelman's argument were [updated
 
 ### Ironmanning: Making an unreasonable argument reasonable
 
-![Ironman](/assets/images/art-744202.jpg "Image by ashkhan2 from Pixabay"){:.floatright}
-For completeness, ironmanning is when someone makes another person's "unreasonable" argument reasonable. This is the converse of strawmanning. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
+{% imagesize /assets/images/art-744202.jpg:img class="floatright" alt="Ironman" title="Image by ashkhan2 from Pixabay" %}For completeness, ironmanning is when someone makes another person's "unreasonable" argument reasonable. This is the converse of strawmanning. What makes something "unreasonable" on its face is a subjective judgment, so this is not necessarily a fallacy like strawmanning or tinmanning.
 
 Iron is similar in strength to steel (which is an alloy of iron and carbon or other materials), so ironmanning is meant to convey a strong argument but for an argument that "shouldn't" have been strengthened. Whereas strawmanning makes a reasonable argument unreasonable, an ironman makes an unreasonable argument reasonable.
 
