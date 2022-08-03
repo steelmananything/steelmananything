@@ -1,7 +1,7 @@
 ---
 title: "Spanking"
 permalink: /topics/spanking/
-last_modified_at: 2022-06-19T12:00:00-00:00
+last_modified_at: 2022-08-02T12:00:00-00:00
 toc: true
 references: true
 ---
