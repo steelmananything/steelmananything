@@ -27,7 +27,7 @@ module Jekyll
           shortref = line[1..line.index("]")]
           mainlink = line[line.index("]: ")+3..]
           mainlink = mainlink[0..mainlink.index("'")-2]
-          line = line[line.index("'")+1..].strip.chomp("'")
+          line = line[line.index("'", line.index("]: "))+1..].strip.chomp("'")
           if !line.index("&#013;&#013;").nil?
             last = line.rindex("&#013;&#013;")
             line = line[0..last-1] + "\n\n&nbsp;\n\n" + line[last+12..-1]
@@ -36,7 +36,7 @@ module Jekyll
           shortrefid = shortref.gsub(/ /, "_")
           # https://stackoverflow.com/a/2849800
           # "you can use !, $, &, ', (, ), *, +, ,, ;, =, something matching %[0-9a-fA-F]{2}, something matching [a-zA-Z0-9], -, ., _, ~, :, @, /, and ?"
-          shortrefid = shortrefid.gsub(/[^a-zA-Z0-9\.,_\-\&]/, "")
+          shortrefid = shortrefid.gsub(/[^a-zA-Z0-9\.,_\-\&']/, "")
           if !line.index("https://doi.org").nil? && mainlink.index("https://doi.org").nil?
             doi = line[line.index(". https://doi.org")+2..]
             doi = doi[doi.index("doi.org/")+8..]
