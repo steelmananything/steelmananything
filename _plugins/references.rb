@@ -9,6 +9,12 @@ module Jekyll
       @text = markup
     end
 
+    def self.remove_invalid_anchor_characters(str)
+      # https://stackoverflow.com/a/2849800
+      # "you can use !, $, &, ', (, ), *, +, ,, ;, =, something matching %[0-9a-fA-F]{2}, something matching [a-zA-Z0-9], -, ., _, ~, :, @, /, and ?"
+      str.gsub(/ /, "_").gsub(/[^a-zA-Z0-9\.,_\-\&']/, "")
+    end
+
     def render(context)
       link_lines = []
       File.readlines(context['page']['path']).each do |line|
@@ -33,10 +39,9 @@ module Jekyll
             line = line[0..last-1] + "\n\n&nbsp;\n\n" + line[last+12..-1]
             line = line.gsub("&#013;", "\n")
           end
-          shortrefid = shortref.gsub(/ /, "_")
-          # https://stackoverflow.com/a/2849800
-          # "you can use !, $, &, ', (, ), *, +, ,, ;, =, something matching %[0-9a-fA-F]{2}, something matching [a-zA-Z0-9], -, ., _, ~, :, @, /, and ?"
-          shortrefid = shortrefid.gsub(/[^a-zA-Z0-9\.,_\-\&']/, "")
+
+          shortrefid = Jekyll::ReferencesTag.remove_invalid_anchor_characters(shortref)
+
           if !line.index("https://doi.org").nil? && mainlink.index("https://doi.org").nil?
             doi = line[line.index(". https://doi.org")+2..]
             doi = doi[doi.index("doi.org/")+8..]

@@ -316,3 +316,5 @@ github: [metadata]
 # https://mmistakes.github.io/minimal-mistakes/docs/javascript/
 after_footer_scripts:
   - /assets/js/custom.js
+
+markdown: CustomMarkdown
