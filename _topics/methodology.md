@@ -11,7 +11,7 @@ references: true
 
 Below are the core principles we try to follow. This might change over time as we steelman the techniques but we had to start somewhere.
 
-1. Use structured reasons and arguments ([Dutilh Novaes & Zalta, 2021](#Dutilh_Novaes_&_Zalta,_2021)).
+1. Use structured reasons and arguments ([Dutilh Novaes & Zalta, 2021](#Dutilh_Novaes_&_Zalta,_2021); [Walton, 1988](#Walton,_1988)).
 2. If possible, use arguments based on evidence ([Kelly & Zalta, 2016](#Kelly_&_Zalta,_2016)), science ([Hepburn et al., 2021](#Hepburn_et_al.,_2021)), and rationalism ([Markie et al., 2021](#Markie_et_al.,_2021)).
 3. Use a hierarchy of evidence ([Schünemann et al., 2022](#Schunemann_et_al.,_2022)) that generally values certain types of evidence higher than others in the following order:
     1. Experimental studies ([Franklin et al., 2021](#Franklin_et_al.,_2021)) by experts in peer-reviewed, scientific journals
@@ -45,6 +45,11 @@ Below are the core principles we try to follow. This might change over time as w
         2. Individual experts
     5. All of the above but not in peer-reviewed, scientific journals
     6. All of the above but not by experts
+4. Use a [burden of proof](/topics/methodology/#burden-of-proof)
+
+### Burden of Proof
+
+A burden of proof is an expectation by one side about the strength of argument required by another side for persuasion. A burden of proof may be useful to establish the core of a debate and avoid an argument going on indefinitely ([Walton, 1988b](#Walton,_1988b)). A burden of proof may assert controversial philosophical or ethical premises, but we think this is still valuable in clarifying the basis of an argument.
 
 ### Other general points
 
@@ -100,3 +105,5 @@ Below are the core principles we try to follow. This might change over time as w
 [Sprenger et al., 2021]: https://plato.stanford.edu/entries/paradox-simpson/ 'Sprenger, J., Weinberger, N., & Zalta, E. (Ed.) (2021). Simpson's Paradox. The Stanford Encyclopedia of Philosophy (Summer 2021 Edition). https://plato.stanford.edu/archives/sum2021/entries/paradox-simpson/'
 [Stegenga, 2018]: https://doi.org/10.1093/oso/9780198747048.001.0001 'Stegenga, J. (2018). Medical nihilism. Oxford University Press. https://doi.org/10.1093/oso/9780198747048.001.0001'
 [Vul et al., 2009]: https://doi.org/10.1111/j.1745-6924.2009.01125.x 'Vul, E., Harris, C., Winkielman, P., & Pashler, H. (2009). Puzzlingly high correlations in fMRI studies of emotion, personality, and social cognition. Perspectives on psychological science, 4(3), 274-290. https://doi.org/10.1111/j.1745-6924.2009.01125.x'
+[Walton, 1988]: https://doi.org/10.1007/BF00178024 '"This description of reasoned dialogue as a process of deepened insight into one's own position on a controversial issue is consistent with the Socratic view of dialogue as a means to attain self-knowledge. For Socrates, the process of learning was an ascent from the depths of the cave towards the clearer light of self-knowledge through the process of reasoned, and primarily verbal, dialogue with another discussant, on controversial issues. What Socrates emphasized as a most important benefit or gain of dialogue was self-knowledge. It was somehow through the process of articulation and testing of one's best arguments against an able opponent in dialogue that real knowledge was to be gained.&#013;&#013;This Socratic point of view draws our attention to the more hidden and subtle benefit of good, reasoned dialogue. Not only does it enable one to rationally persuade an opponent or co-participant in discussion, but it is also the vehicle that enables one to come to better understand one's own position on important issues, one's own reasoned basis behind one's deeply held convictions. It is the concept of burden of proof that makes such shifts of rational persuasion possible, and thereby enables dialogue to contribute to knowledge."&#013;&#013;Walton, D. N. (1988). Burden of proof. Argumentation, 2(2), 233-254. https://doi.org/10.1007/BF00178024'
+[Walton, 1988b]: https://doi.org/10.1007/BF00178024 '"One of the most trenchant and fundamental criticisms of reasoned dialogue as a method of arriving at a conclusion is that argument on a controversial issue can go on and on, back and forth, without a decisive conclusion ever being determined by the argument. The only defence against this criticism lies in the use of the concept of the burden of proof within reasoned dialogue. Once a burden of proof is set externally, then it can be determined, after a finite number of moves in the dialogue, whether the burden has been met or not. Only by this device can we forestall an argument from going on indefinitely, and thereby arrive at a definite conclusion for or against the thesis at issue."&#013;&#013;Walton, D. N. (1988b). Burden of proof. Argumentation, 2(2), 233-254. https://doi.org/10.1007/BF00178024'
