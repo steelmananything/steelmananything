@@ -49,7 +49,7 @@ Below are the core principles we try to follow. This might change over time as w
 
 ### Burden of Proof
 
-A burden of proof is an expectation by one side about the strength of argument required by another side for persuasion. A burden of proof may be useful to establish the core of a debate and avoid an argument going on indefinitely ([Walton, 1988b](#Walton,_1988b)). A burden of proof may assert controversial philosophical or ethical premises, but we think this is still valuable in clarifying the basis of an argument.
+A burden of proof is an expectation by one side about the strength of argument required by another side for persuasion. A burden of proof may be useful to establish the core of a debate and avoid an argument going on indefinitely ([Walton, 1988b](#Walton,_1988b)). A burden of proof may assert controversial philosophical or ethical premises, but we think this is still valuable in clarifying the context and exit criteria of an argument.
 
 ### Other general points
 
