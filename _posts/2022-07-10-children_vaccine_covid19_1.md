@@ -2,7 +2,7 @@
 title: "Should children aged 6 months through 4 years get the Pfizer COVID-19 vaccine?"
 categories:
   - Blog
-last_modified_at: 2022-07-19T12:00:00-00:00
+last_modified_at: 2022-08-14T12:00:00-00:00
 show_date: true
 references: true
 ---
