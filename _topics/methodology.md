@@ -2,7 +2,7 @@
 title: "Methodology"
 permalink: /topics/methodology/
 excerpt: "Our methodology"
-last_modified_at: 2022-08-14T12:00:00-00:00
+last_modified_at: 2022-08-20T12:00:00-00:00
 toc: true
 references: true
 ---
@@ -15,7 +15,7 @@ Below are the core principles we try to follow. This might change over time as w
 2. If possible, use arguments based on evidence ([Kelly & Zalta, 2016](#Kelly_&_Zalta,_2016)), science ([Hepburn et al., 2021](#Hepburn_et_al.,_2021)), and rationalism ([Markie et al., 2021](#Markie_et_al.,_2021)).
 3. Use a hierarchy of evidence ([Schünemann et al., 2022](#Schunemann_et_al.,_2022)) that generally values certain types of evidence higher than others in the following order:
     1. Experimental studies ([Franklin et al., 2021](#Franklin_et_al.,_2021)) by experts in peer-reviewed, scientific journals
-        1. Meta-analyses and systematic reviews ([Lasserson et al., 2022](Lasserson_et_al.,_2022)) of the following types of studies
+        1. Meta-analyses, systematic reviews ([Lasserson et al., 2022](Lasserson_et_al.,_2022)) and umbrella reviews ([Ioannidis, 2009](#Ioannidis,_2009)) of the following types of studies:
         2. Randomized controlled trial (RCT) experiments ([Reiss et al., 2022](#Reiss_et_al.,_2022); [Kendall, 2003](#Kendall,_2003)): Patients are randomly assigned to an intervention group or a control group (not receiving the intervention) and the groups are compared, hopefully controlling for confounding variables ([Lu, 2009](#Lu,_2009)):
              1. Placebo-controlled: A placebo is assumed to have no or minimal effect
              2. Non-placebo-controlled
@@ -29,7 +29,7 @@ Below are the core principles we try to follow. This might change over time as w
             2. Experiments on individuals (case studies)
         3. Experiments exploring a mechanism of action ([Craver et al., 2019](#Craver_et_al.,_2019))
     2. Correlational/observational studies by experts in peer-reviewed, scientific journals
-        1. Meta-analyses and systematic reviews of the following types of studies
+        1. Meta-analyses, systematic reviews, and umbrella reviews of the following types of studies:
         2. Cohort studies ([Euser et al., 2009](#Euser_et_al.,_2009)): Follow one exposed group and a non-exposed group (control) and compare outcomes.
             1. Prospective: Baseline is assessed and then researchers actively follow patients to perform a follow-up: More accurate data collection
             2. Retrospective: Historical analysis of existing data
@@ -99,6 +99,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 [Hepburn et al., 2021]: https://plato.stanford.edu/entries/scientific-method/ 'Hepburn, B., Andersen, H., & Zalta, E. (Ed.) (2021). Scientific Method. The Stanford Encyclopedia of Philosophy (Summer 2021 Edition). https://plato.stanford.edu/archives/sum2021/entries/scientific-method/'
 [Humphreys et al., 2013]: https://doi.org/10.1093/pan/mps021 'Humphreys, M., De la Sierra, R. S., & Van der Windt, P. (2013). Fishing, commitment, and communication: A proposal for comprehensive nonbinding research registration. Political Analysis, 21(1), 1-20. https://doi.org/10.1093/pan/mps021'
 [Ioannidis, 2005]: https://doi.org/10.1371/journal.pmed.0020124 'Ioannidis, J. P. (2005). Why most published research findings are false. PLoS medicine, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124'
+[Ioannidis, 2009]: https://www.cmaj.ca/content/cmaj/181/8/488.full.pdf 'Ioannidis, J. P. (2009). Integration of evidence from multiple meta-analyses: a primer on umbrella reviews, treatment networks and multiple treatments meta-analyses. Cmaj, 181(8), 488-493. https://doi.org/10.1503/cmaj.081086'
 [Ioannidis & Trikalinos, 2007]: https://doi.org/10.1177/1740774507079441 'Ioannidis, J. P., & Trikalinos, T. A. (2007). An exploratory test for an excess of significant findings. Clinical trials, 4(3), 245-253. https://doi.org/10.1177/1740774507079441'
 [Kelly & Zalta, 2016]: https://plato.stanford.edu/entries/evidence/ 'Kelly, T., & Zalta, E. (Ed.) (2016). Evidence. The Stanford Encyclopedia of Philosophy (Winter 2016 Edition). https://plato.stanford.edu/archives/win2016/entries/evidence/'
 [Kendall, 2003]: https://emj.bmj.com/content/emermed/20/2/164.full.pdf 'Kendall, J. (2003). Designing a research project: randomised controlled trials and their principles. Emergency medicine journal: EMJ, 20(2), 164. https://doi.org/10.1136/emj.20.2.164'
