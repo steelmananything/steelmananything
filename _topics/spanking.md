@@ -14,7 +14,7 @@ Spanking is a type of physical punishment commonly defined as "physically noninj
 
 Recent estimates of spanking in the United States vary widely with common ranges of 35% to 80%, but all estimates have shown recent decreases ([Finkelhor et al., 2019](#Finkelhor_et_al.,_2019); [Mehus & Patrick, 2021](#Mehus_&_Patrick,_2021); [Ryan et al., 2016](#Ryan_et_al.,_2016); [Gershoff et al., 2018](#Gershoff_et_al.,_2018)).
 
-There is a spectrum of views on spanking and discipline more broadly, and these steelman are just a starting point. One common alternative to physical discipline (i.e. authoritative parenting) includes timeouts and privilege removal (e.g. behavioral parent training) but other approaches disagree with all forms of discipline (e.g. exclusively positive parenting). In addition, there is a question of whether such views apply universally or depend on context.
+There is a spectrum of views on spanking and discipline more broadly, and these steelmen are just a starting point. One common alternative to physical discipline (i.e. authoritative parenting) includes timeouts and privilege removal (e.g. behavioral parent training) but other approaches disagree with all forms of discipline (e.g. exclusively positive parenting). In addition, there is a question of whether such views apply universally or depend on context.
 
 ## Steelman: Mild spanking may reduce inappropriate behavior as well or better than other methods, eliminating physical punishment may have unintended negative consequences, and the burden of proof is on those proposing to change a widespread practice without superior evidence over conditional spanking
 
