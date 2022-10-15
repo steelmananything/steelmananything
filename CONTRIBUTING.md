@@ -68,17 +68,17 @@ We use a plugin for images instead of Markdown because we want to output explici
 
 * Without a link and underlying image is greater than 600px:
   ```
-  {% imagesize /assets/images/image.png:img?width=600 alt="ALT TEXT" %}
+  {% imagesize /assets/images/image.png:img?width=600 alt="ALT TEXT" title="ALT TEXT" %}
   ```
 * Without a link and underlying image is less than 600px:
   ```
-  {% imagesize /assets/images/image.png:img alt="ALT TEXT" %}
+  {% imagesize /assets/images/image.png:img class="align-center" alt="ALT TEXT" title="ALT TEXT" %}
   ```
 * With a link and underlying image is greater than 600px:
   ```
-  [{% imagesize /assets/images/image.png:img?width=600 alt="ALT TEXT" %}](/assets/images/image.png)
+  [{% imagesize /assets/images/image.png:img?width=600 alt="ALT TEXT" title="ALT TEXT" %}](/assets/images/image.png)
   ```
 * With a link and underlying image is less than 600px:
   ```
-  [{% imagesize /assets/images/image.png:img alt="ALT TEXT" %}](/assets/images/image.png)
+  [{% imagesize /assets/images/image.png:img class="align-center" alt="ALT TEXT" title="ALT TEXT" %}](/assets/images/image.png)
   ```
