@@ -34,7 +34,7 @@ Other lessons learned:
 1. Ultimately, if another person has little motivation to debate something seriously, it seems the style or content of the argument doesn't really matter. In that sense, steelmanning was a success because it helped clarify the other person's level of motivation.
 1. After presenting an initial steelman, if the other side doesn't immediately explore the specifics of it nor reciprocate the steelmanning, then it's easy to fall back into unproductive debates. Ideally, one would steelman every new topic that's brought up, but this is incredibly difficult. One solution might be to observe that the debate is veering into other topics and propose that either:
     1. If they think the other topic is critical, both sides can go off and do steelmen of that other topic. It's important that both sides do it so that both sides feel empathized with.
-    1. If they think the other topic is not critical, go back to the original steelman, starting with a focus on the burden of proof.
+    1. Or, if they think the other topic is not critical, go back to the original steelman, starting with a focus on the burden of proof.
 1. It's possible that a fully empathetic style of argumentation such as steelmanning may plant a seed. The other person hopefully won't have a distasteful memory of the argument and this positive memory might help them reconsider things in the future.
 
 Finally, another personal lesson is that I will be careful in what I decide to steelman in the future because it is such a large investment of time. That always includes my other priorities at that time, but it may now include the importance of the topic to me, the closeness of my friendship with the other person, and gauging how motivated the other person is.
