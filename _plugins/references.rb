@@ -1,6 +1,6 @@
 require 'kramdown'
 require 'kramdown-parser-gfm'
-require 'rinku'
+require 'anchored'
 
 module Jekyll
   class ReferencesTag < Liquid::Tag
@@ -49,7 +49,7 @@ module Jekyll
             line = line + " DOI: https://doi.org/" + doi + "."
             line = line + " Source: " + mainlink
           end
-          results << "<li id=\"#{shortrefid}\">(#{CGI::escapeHTML(shortref.gsub("]", ")"))}: #{Rinku.auto_link(Kramdown::Document.new(line, input: 'GFM').to_html, mode=:all, link_attr=nil, skip_tags=nil)}</li>\n"
+          results << "<li id=\"#{shortrefid}\">(#{CGI::escapeHTML(shortref.gsub("]", ")"))}: #{Anchored::Linker.auto_link(Kramdown::Document.new(line, input: 'GFM').to_html)}</li>\n"
         end
         results << "</ol>\n"
         results << "</details>\n"
