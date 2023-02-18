@@ -42,13 +42,30 @@ module Jekyll
 
           shortrefid = Jekyll::ReferencesTag.remove_invalid_anchor_characters(shortref)
 
-          if !line.index("https://doi.org").nil? && mainlink.index("https://doi.org").nil?
-            doi = line[line.index(". https://doi.org")+2..]
-            doi = doi[doi.index("doi.org/")+8..]
-            line = line[0..line.index(". https://")+1]
-            line = line + " DOI: https://doi.org/" + doi + "."
-            line = line + " Source: " + mainlink
+          finallink = nil
+          if !line.index(". http").nil?
+            finallink = line[line.index(". http")+2..]
+            line = line[0..line.index(". http")+1]
+          elsif !line.index(" from http").nil?
+            finallink = line[line.index(" from http")+6..]
+            line = line[0..line.index(" from http")+5]
           end
+          if !finallink.nil? && finallink.start_with?("https://doi.org")
+            doi = finallink[finallink.index("doi.org/")+8..]
+            line = line + " DOI: " + doi + "."
+          elsif mainlink.start_with?("https://doi.org")
+            doi = mainlink[mainlink.index("doi.org/")+8..]
+            line = line + " DOI: " + doi + "."
+          end
+          if !finallink.nil?
+            line = line + " " + finallink
+            if finallink != mainlink
+              line = line + " ; Recommended: " + mainlink
+            end
+          else
+            line = line + " " + mainlink
+          end
+
           results << "<li id=\"#{shortrefid}\">(#{CGI::escapeHTML(shortref.gsub("]", ")"))}: #{Anchored::Linker.auto_link(Kramdown::Document.new(line, input: 'GFM').to_html)}</li>\n"
         end
         results << "</ol>\n"
