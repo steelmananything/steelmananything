@@ -34,13 +34,13 @@ This term is a bit ambiguous because iron or steel products are sometimes coated
 
 Ozy Brennan writes ([Brennan, 2016](#Brennan,_2016)) that when someone declares that they're steelmanning, they're usually [tinmanning](#tinmanning-strawmanning-as-steelmanning) and the declaration of steelmanning may be condescending, harmful, or arrogant:
 
-> In the least obnoxious case [...] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
+> In the least obnoxious case \[...\] not only is this person strawmanning you, but they're also acting like you're an idiot and they're so much better than you for being able to think of the argument you actually made.
 > 
-> [...]
+> \[...\]
 > 
-> In the most obnoxious case, Alice doesn't actually understand Bob's argument at all. Often, there are fundamental worldview differences. [...] Instead of understanding that people believe things differently from you, you're transforming everyone into stupider versions of yourself that don't notice the implications of their own beliefs.
+> In the most obnoxious case, Alice doesn't actually understand Bob's argument at all. Often, there are fundamental worldview differences. \[...\] Instead of understanding that people believe things differently from you, you're transforming everyone into stupider versions of yourself that don't notice the implications of their own beliefs.
 > 
-> [...]
+> \[...\]
 > 
 > You can say "but neither of those are actually steelmanning! Real steelmanning is being able to put other people's viewpoints in words they themselves find more compelling than their own arguments!" However, that is an extraordinarily rare and difficult skill; even most people who do it once can't do it consistently. Saying "to steelman position X..." should be interpreted the same way as saying "to express perfect loving kindness for all beings..." It's certainly a nice ideal which people might want to approach, and some people even manage to pull it off sometimes, but it's a bit arrogant to declare that you're definitely doing it. Even when you think you are, you usually aren't.
 
@@ -50,7 +50,7 @@ Brennan's proposed alternative is:
 > 
 > Second, seek out intelligent and well-informed advocates of viewpoints you disagree with.
 > 
-> [...]
+> \[...\]
 > 
 > Third, whenever possible, try to switch conversations from a debate focus to a collaborative truth-seeking focus.
 
@@ -81,11 +81,11 @@ Formally:
 
 Dr. Gelman argues ([Gelman, 2022](#Gelman,_2022)) that steelmanning one argument may strawman another:
 
-> [Steelmanning] can lead to being uncharitable or "strawmanning" of other positions that are being opposed or caricatured by the people you are steelmanning.
+> \[Steelmanning\] can lead to being uncharitable or "strawmanning" of other positions that are being opposed or caricatured by the people you are steelmanning.
 
 Dr. Gelman's proposed alternative is:
 
-> to try to address the arguments as [they] arise.
+> to try to address the arguments as \[they\] arise.
 
 #### Steelman: Accepting a premise from one person may strawman someone else
 
