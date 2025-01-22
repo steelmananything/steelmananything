@@ -62,51 +62,65 @@ A burden of proof is an expectation by one side about the strength of argument r
 
 ### Caveats
 
+#### Potential Issues with Evidence-based Medicine
+
 1. There are potential issues with the concept of a hierarchy of evidence and the related "evidence-based medicine" (EBM) movement ([Murad et al., 2016](#Murad_et_al.,_2016); [Anglemyer et al., 2014](#Anglemyer_et_al.,_2014); [Frieden, 2017](#Frieden,_2017); [Stegenga, 2018](#Stegenga,_2018); [Blunt, 2015](#Blunt,_2015); [Jureidini & McHenry, 2022](#Jureidini_&_McHenry,_2022); [Charlton, 2009](#Charlton,_2009); [Charlton & Miles, 1998](#Charlton_&_Miles,_1998)).
 1. A lack of evidence higher in the hierarchy is not necessarily problematic due to infeasibility ([Smith & Pell, 2003](#Smith_&_Pell,_2003); [Prasad & Jena, 2013](#Prasad_&_Jena,_2013)), unnecessary risks ([Glasziou et al., 2007](#Glasziou_et_al.,_2007)), ethical issues, etc., although there are risks to making such assumptions ([Prasad et al., 2011](#Prasad_et_al.,_2011); [Prasad et al., 2013](#Prasad_et_al.,_2013); [Haslam et al., 2021](#Haslam_et_al.,_2021); [Herrera-Perez et al., 2019](#Herrera-Perez_et_al.,_2019); [Rossouw et al., 2002](#Rossouw_et_al.,_2002); [Powell & Prasad, 2022](#Powell_&_Prasad,_2022)).
-1. There are potential issues with specific types of evidence; for examples:
-    1. Meta-analyses: Study selection ([Jørgensen et al., 2018](#Jorgensen_et_al.,_2018)), transparency ([Coyne et al., 2010](#Coyne_et_al.,_2010)), poor quality ([Ioannidis, 2016](#Ioannidis,_2016)), etc.
-    1. RCTs: Simpson's Paradox ([Sprenger et al., 2021](#Sprenger_et_al.,_2021)), bias ([Vinkers et al., 2021](#Vinkers_et_al.,_2021)), etc.
 1. In some cases, evidence lower in the hierarchy may be stronger; for example, a well-done experiment might be stronger than a poorly done RCT.
-1. There are potential issues with all types of evidence ([Ioannidis, 2005](#Ioannidis,_2005)); for examples:
-    1. Successful results with small sample sizes but failures with large sample sizes ([Hwang et al., 2016](#Hwang_et_al.,_2016))
-    1. Incomplete or distorted reporting of results ([BMJ, 2012](#BMJ,_2012), [The Cochrane Collaboration, 2014](#The_Cochrane_Collaboration,_2014))
-    1. Poor incentives ([Horton, 2015](#Horton,_2015); [Nosek et al., 2012](#Nosek_et_al.,_2012))
-    1. Ostensibly useful results that are instead likely due to noise or poor data quality, despite honesty and transparency ([Gelman, 2017](#Gelman,_2017))
-    1. Incomplete analysis of results ([BMJ, 2012](#BMJ,_2012))
-    1. Statistically significant but false effects due to low statistical power ([Button et al., 2013](#Button_et_al.,_2013))
-    1. Lacking or poor reproduction, or too much reproduction ([Ioannidis & Trikalinos, 2007](#Ioannidis_&_Trikalinos,_2007))
-    1. Non-random sampling ([Carlisle, 2017](#Carlisle,_2017))
-    1. High heterogeneity violating random-effects model assumptions ([Stanley et al., 2022](#Stanley_et_al.,_2022)) and creating invalid generalizations ([Bryan et al., 2021](#Bryan_et_al.,_2021))
-    1. Poor external validity ([Reiss et al., 2022](#Reiss_et_al.,_2022))
-    1. Incorrect statistical controls ([Westfall & Yarkoni, 2016](#Westfall_&_Yarkoni,_2016))
-    1. Mistakes (e.g. data entry, variable coding, statistics, over-interpretation, etc.) ([Gelman, 2017](#Gelman,_2017); [Brown & Heathers, 2017](#Brown_&_Heathers,_2017))
-    1. Multiple comparisons ([Bennett et al., 2009](#Bennett_et_al.,_2009))
-    1. p-hacking, researcher degrees of freedom, multiple potential comparisons, or fishing expeditions ([Wasserstein & Lazar, 2016](#Wasserstein_&_Lazar,_2016); [Wasserstein et al., 2019](#Wasserstein_et_al.,_2019); [Simmons et al., 2016](#Simmons_et_al.,_2016); [Humphreys et al., 2013](#Humphreys_et_al.,_2013); [Gelman & Loken, 2013](#Gelman_&_Loken,_2013))
-    1. Misconduct and fraud ([Fanelli, 2009](#Fanelli,_2009); [Smith, 2021](#Smith,_2021); [Crocker, 2011](#Crocker,_2011); [Van Noorden, 2022](#Van_Noorden,_2022); [Adam, 2019](#Adam,_2019); [Fang et al., 2012](#Fang_et_al.,_2012); [Thacker, 2021](#Thacker,_2021))
-    1. Conflicts of interest and funding distortions ([Lexchin et al., 2003](#Lexchin_et_al.,_2003); [Lundh et al., 2010](#Lundh_et_al.,_2010); [Angell, 2009](#Angell,_2009))
-    1. Likelihood of objectivity (whether conscious or subconscious) of researchers ([Angell, 2009b](#Angell,_2009b))
-    1. Likelihood of objectivity (whether conscious or subconscious) of clinicians ([Angell, 2009b](#Angell,_2009b))
-    1. Likelihood of objectivity (whether conscious or subconscious) of organizations ([Angell, 2009b](#Angell,_2009b))
-    1. Poor instrument or method reliability ([Vul et al., 2009](#Vul_et_al.,_2009))
-    1. Limited post-publication critique ([Hardwicke et al., 2022](#Hardwicke_et_al.,_2022))
-    1. Experimenter effects ([Sorge et al., 2014](#Sorge_et_al.,_2014); [Schlitz et al., 2006](#Schlitz_et_al.,_2006))
-    1. Publication selection bias ([Bartos et al., 2022](#Bartos_et_al.,_2022)) and difficulty detecting it ([Tang & Liu, 2000](#Tang_&_Liu,_2000))
-    1. Institutional inertia and politics ([Rigas et al., 1999](#Rigas_et_al.,_1999)), etc.
-    1. Peer review failures, biases, and gate keeping ([Huber et al., 2022](#Huber_et_al.,_2022); [Ferguson et al., 2014](#Ferguson_et_al.,_2014); [Siler et al., 2015](#Siler_et_al.,_2015); [Sackett, 2000](#Sackett,_2000))
-    1. Low quality evidence ([Howick et al., 2022](#Howick_et_al.,_2022))
-    1. Under-reporting of harms ([Howick et al., 2022](#Howick_et_al.,_2022))
-    1. Poor data sharing and transparency ([Hardwicke et al., 2022b](#Hardwicke_et_al.,_2022b); [Gabelica et al., 2022](#Gabelica_et_al.,_2022); [Gelman, 2017](#Gelman,_2017))
-    1. Outcome switching ([Altman et al., 2017](#Altman_et_al.,_2017))
-    1. Failures of pre-registration ([Brodeur et al., 2022](#Brodeur_et_al.,_2022))
-    1. Incorrect sub-group analyses ([Peto, 2011](#Peto,_2011))
-    1. Reporting biases ([Weinerova et al., 2022](#Weinerova_et_al.,_2022))
-    1. Lack of post-publication review ([Gelman, 2017](#Gelman,_2017))
+
+#### Potential Procedural Issues
+
+1. Meta-analyses
+    1. Study selection ([Jørgensen et al., 2018](#Jorgensen_et_al.,_2018))
+    1. Transparency ([Coyne et al., 2010](#Coyne_et_al.,_2010))
+    1. Poor quality ([Ioannidis, 2016](#Ioannidis,_2016))
+1. RCTs
+    1. Simpson's Paradox ([Sprenger et al., 2021](#Sprenger_et_al.,_2021))
+    1. Bias ([Vinkers et al., 2021](#Vinkers_et_al.,_2021))
+
+#### Potential Evidence Issues
+
+1. Successful results with small sample sizes but failures with large sample sizes ([Hwang et al., 2016](#Hwang_et_al.,_2016))
+1. Published results tend to be overly optimistic about effect sizes because of low power and selection on statistical significance ([Ioannidis, 2008](#Ioannidis,_2008))
+1. Incomplete or distorted reporting of results ([BMJ, 2012](#BMJ,_2012), [The Cochrane Collaboration, 2014](#The_Cochrane_Collaboration,_2014))
+1. Poor incentives ([Horton, 2015](#Horton,_2015); [Nosek et al., 2012](#Nosek_et_al.,_2012))
+1. Ostensibly useful results that are instead likely due to noise or poor data quality, despite honesty and transparency ([Gelman, 2017](#Gelman,_2017))
+1. Incomplete analysis of results ([BMJ, 2012](#BMJ,_2012))
+1. Statistically significant but false effects due to low statistical power ([Button et al., 2013](#Button_et_al.,_2013))
+1. Lacking or poor reproduction, or too much reproduction ([Ioannidis & Trikalinos, 2007](#Ioannidis_&_Trikalinos,_2007))
+1. Non-random sampling ([Carlisle, 2017](#Carlisle,_2017))
+1. Difficulties analyzing data with multilevel structure ([Gelman & Brown, 2024](#Gelman_&_Brown,_2024))
+1. Misinterpretation of the literature ([Gelman & Brown, 2024](#Gelman_&_Brown,_2024))
+1. High heterogeneity violating random-effects model assumptions ([Stanley et al., 2022](#Stanley_et_al.,_2022)) and creating invalid generalizations ([Bryan et al., 2021](#Bryan_et_al.,_2021))
+1. Poor external validity ([Reiss et al., 2022](#Reiss_et_al.,_2022))
+1. Incorrect statistical controls ([Westfall & Yarkoni, 2016](#Westfall_&_Yarkoni,_2016))
+1. Mistakes (e.g. data entry, variable coding, statistics, over-interpretation, etc.) ([Gelman, 2017](#Gelman,_2017); [Brown & Heathers, 2017](#Brown_&_Heathers,_2017))
+1. Multiple comparisons ([Bennett et al., 2009](#Bennett_et_al.,_2009))
+1. p-hacking, researcher degrees of freedom, multiple potential comparisons, or fishing expeditions ([Wasserstein & Lazar, 2016](#Wasserstein_&_Lazar,_2016); [Wasserstein et al., 2019](#Wasserstein_et_al.,_2019); [Simmons et al., 2016](#Simmons_et_al.,_2016); [Humphreys et al., 2013](#Humphreys_et_al.,_2013); [Gelman & Loken, 2013](#Gelman_&_Loken,_2013))
+1. Misconduct and fraud ([Fanelli, 2009](#Fanelli,_2009); [Smith, 2021](#Smith,_2021); [Crocker, 2011](#Crocker,_2011); [Van Noorden, 2022](#Van_Noorden,_2022); [Adam, 2019](#Adam,_2019); [Fang et al., 2012](#Fang_et_al.,_2012); [Thacker, 2021](#Thacker,_2021))
+1. Conflicts of interest and funding distortions ([Lexchin et al., 2003](#Lexchin_et_al.,_2003); [Lundh et al., 2010](#Lundh_et_al.,_2010); [Angell, 2009](#Angell,_2009))
+1. Likelihood of objectivity (whether conscious or subconscious) of researchers ([Angell, 2009b](#Angell,_2009b))
+1. Likelihood of objectivity (whether conscious or subconscious) of clinicians ([Angell, 2009b](#Angell,_2009b))
+1. Likelihood of objectivity (whether conscious or subconscious) of organizations ([Angell, 2009b](#Angell,_2009b))
+1. Poor instrument or method reliability ([Vul et al., 2009](#Vul_et_al.,_2009))
+1. Limited post-publication critique ([Hardwicke et al., 2022](#Hardwicke_et_al.,_2022))
+1. Experimenter effects ([Sorge et al., 2014](#Sorge_et_al.,_2014); [Schlitz et al., 2006](#Schlitz_et_al.,_2006))
+1. Publication selection bias ([Bartos et al., 2022](#Bartos_et_al.,_2022)) and difficulty detecting it ([Tang & Liu, 2000](#Tang_&_Liu,_2000))
+1. Institutional inertia and politics ([Rigas et al., 1999](#Rigas_et_al.,_1999)), etc.
+1. Peer review failures, biases, and gate keeping ([Huber et al., 2022](#Huber_et_al.,_2022); [Ferguson et al., 2014](#Ferguson_et_al.,_2014); [Siler et al., 2015](#Siler_et_al.,_2015); [Sackett, 2000](#Sackett,_2000))
+1. Low quality evidence ([Howick et al., 2022](#Howick_et_al.,_2022))
+1. Under-reporting of harms ([Howick et al., 2022](#Howick_et_al.,_2022))
+1. Poor data sharing and transparency ([Hardwicke et al., 2022b](#Hardwicke_et_al.,_2022b); [Gabelica et al., 2022](#Gabelica_et_al.,_2022); [Gelman, 2017](#Gelman,_2017))
+1. Outcome switching ([Altman et al., 2017](#Altman_et_al.,_2017))
+1. Failures of pre-registration ([Brodeur et al., 2022](#Brodeur_et_al.,_2022))
+1. Incorrect sub-group analyses ([Peto, 2011](#Peto,_2011))
+1. Reporting biases ([Weinerova et al., 2022](#Weinerova_et_al.,_2022))
+1. Lack of post-publication review ([Gelman, 2017](#Gelman,_2017))
 
 ### Other general points
 
 1. We use the heuristic that mistakes are generally made due to incompetence rather than malice ([Bloch, 2003](#Bloch,_2003)), although the latter is certainly possible.
-1. When comparing arguments, the number of points doesn't necessarily matter.
+1. When comparing arguments, the number of points doesn't necessarily matter. For example, a strong RCT or mechanistic study may outweigh dozens of alternative points.
 
 <!-- References -->
 
@@ -142,6 +156,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 [Gabelica et al., 2022]: https://doi.org/10.1016/j.jclinepi.2022.05.019 'Gabelica, M., Bojčić, R., & Puljak, L. (2022). Many researchers were not compliant with their published data sharing statement: a mixed-methods study. Journal of Clinical Epidemiology, 150, 33-41. https://doi.org/10.1016/j.jclinepi.2022.05.019'
 [Gallow, 2022]: https://plato.stanford.edu/entries/causation-metaphysics/#Inst 'Gallow, D. (2022). The Metaphysics of Causation. The Stanford Encyclopedia of Philosophy (Fall 2022 Edition). https://plato.stanford.edu/archives/fall2022/entries/causation-metaphysics/'
 [Gelman, 2017]: https://doi.org/10.1080/09332480.2017.1302720 'Gelman, A. (2017). Ethics and statistics: Honesty and transparency are not enough. Chance, 30(1), 37-39. https://doi.org/10.1080/09332480.2017.1302720'
+[Gelman & Brown, 2024]: https://stat.columbia.edu/~gelman/research/published/healing3.pdf 'Gelman, A., & Brown, N. J. (2024). How statistical challenges and misreadings of the literature combine to produce unreplicable science: An example from psychology. Advances in Methods and Practices in Psychological Science, 7(4), 25152459241276398. https://doi.org/10.1177/25152459241276398'
 [Gelman & Loken, 2013]: https://stat.columbia.edu/~gelman/research/unpublished/forking.pdf '"P-values are a method of protecting researchers from declaring truth based on patterns in noise, and so it is ironic that, by way of data-dependent analyses, p-values are often used to lend credence to noisy claims based on small samples. To put it another way: without modern statistics, we find it unlikely that people would take seriously a claim about the general population of women, based on two survey questions asked to 100 volunteers on the internet and 24 college students. But with the p-value, a result can be declared significant and deemed worth publishing in a leading journal in psychology."&#013;&#013;"absent pre-registration, our data analysis choices will be data-dependent, even when they are motivated directly from theoretical concerns. When pre-registered replication is difficult or impossible (as in much research in social science and public health), we believe the best strategy is to move toward an analysis of all the data rather than a focus on a single comparison or small set of comparisons"&#013;&#013;"In fields where new data can readily be gathered (such as in all four of the examples discussed above), perhaps the two-part structure of Nosek et al. (2013) will be a standard for future research. Instead of the current norm in which several different studies are performed, each with statistical significance but each with analyses that are contingent on data, perhaps researchers can perform half as many original experiments in each paper and just pair each new experiment with a pre-registered replication."&#013;&#013;Gelman, A., & Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Department of Statistics, Columbia University, 348, 1-17. https://stat.columbia.edu/~gelman/research/unpublished/forking.pdf'
 [Glasziou et al., 2007]: https://doi.org/10.1136/bmj.39070.527986.68 'Glasziou, P., Chalmers, I., Rawlins, M., & McCulloch, P. (2007). When are randomised trials unnecessary? Picking signal from noise. Bmj, 334(7589), 349-351. https://doi.org/10.1136/bmj.39070.527986.68'
 [Hardwicke et al., 2022]: https://doi.org/10.1098/rsos.220139 'Hardwicke, T. E., Thibault, R. T., Kosie, J. E., Tzavella, L., Bendixen, T., Handcock, S. A., ... & Ioannidis, J. P. (2022). Post-publication critique at top-ranked journals across scientific disciplines: a cross-sectional assessment of policies and practice. Royal Society Open Science, 9(8), 220139. https://doi.org/10.1098/rsos.220139'
@@ -155,6 +170,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 [Humphreys et al., 2013]: https://doi.org/10.1093/pan/mps021 'Humphreys, M., De la Sierra, R. S., & Van der Windt, P. (2013). Fishing, commitment, and communication: A proposal for comprehensive nonbinding research registration. Political Analysis, 21(1), 1-20. https://doi.org/10.1093/pan/mps021'
 [Hwang et al., 2016]: https://doi.org/10.1001/jamainternmed.2016.6008 'Hwang, T. J., Carpenter, D., Lauffenburger, J. C., Wang, B., Franklin, J. M., & Kesselheim, A. S. (2016). Failure of investigational drugs in late-stage clinical development and publication of trial results. JAMA internal medicine, 176(12), 1826-1833. https://doi.org/10.1001/jamainternmed.2016.6008'
 [Ioannidis, 2005]: https://doi.org/10.1371/journal.pmed.0020124 'Ioannidis, J. P. (2005). Why most published research findings are false. PLoS medicine, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124'
+[Ioannidis, 2008]: https://osf.io/mfsba/download 'Ioannidis, J. P. (2008). Why Most Discovered True Associations Are Inflated. Epidemiology, 19(5), 640-648. https://doi.org/10.1097/EDE.0b013e31818131e7'
 [Ioannidis, 2009]: https://www.cmaj.ca/content/cmaj/181/8/488.full.pdf 'Ioannidis, J. P. (2009). Integration of evidence from multiple meta-analyses: a primer on umbrella reviews, treatment networks and multiple treatments meta-analyses. Cmaj, 181(8), 488-493. https://doi.org/10.1503/cmaj.081086'
 [Ioannidis, 2016]: https://doi.org/10.1111/1468-0009.12210 'Ioannidis, J. P. (2016). The mass production of redundant, misleading, and conflicted systematic reviews and meta‐analyses. The Milbank Quarterly, 94(3), 485-514. https://doi.org/10.1111/1468-0009.12210'
 [Ioannidis & Trikalinos, 2007]: https://doi.org/10.1177/1740774507079441 'Ioannidis, J. P., & Trikalinos, T. A. (2007). An exploratory test for an excess of significant findings. Clinical trials, 4(3), 245-253. https://doi.org/10.1177/1740774507079441'
