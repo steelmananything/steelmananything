@@ -62,21 +62,11 @@ A burden of proof is an expectation by one side about the strength of argument r
 
 ### Caveats
 
-#### Potential Issues with Evidence-based Medicine
+#### Potential Issues with a hierarchy of evidence and evidence-based medicine
 
 1. There are potential issues with the concept of a hierarchy of evidence and the related "evidence-based medicine" (EBM) movement ([Murad et al., 2016](#Murad_et_al.,_2016); [Anglemyer et al., 2014](#Anglemyer_et_al.,_2014); [Frieden, 2017](#Frieden,_2017); [Stegenga, 2018](#Stegenga,_2018); [Blunt, 2015](#Blunt,_2015); [Jureidini & McHenry, 2022](#Jureidini_&_McHenry,_2022); [Charlton, 2009](#Charlton,_2009); [Charlton & Miles, 1998](#Charlton_&_Miles,_1998)).
 1. A lack of evidence higher in the hierarchy is not necessarily problematic due to infeasibility ([Smith & Pell, 2003](#Smith_&_Pell,_2003); [Prasad & Jena, 2013](#Prasad_&_Jena,_2013)), unnecessary risks ([Glasziou et al., 2007](#Glasziou_et_al.,_2007)), ethical issues, etc., although there are risks to making such assumptions ([Prasad et al., 2011](#Prasad_et_al.,_2011); [Prasad et al., 2013](#Prasad_et_al.,_2013); [Haslam et al., 2021](#Haslam_et_al.,_2021); [Herrera-Perez et al., 2019](#Herrera-Perez_et_al.,_2019); [Rossouw et al., 2002](#Rossouw_et_al.,_2002); [Powell & Prasad, 2022](#Powell_&_Prasad,_2022)).
 1. In some cases, evidence lower in the hierarchy may be stronger; for example, a well-done experiment might be stronger than a poorly done RCT.
-
-#### Potential Procedural Issues
-
-1. Meta-analyses
-    1. Study selection ([Jørgensen et al., 2018](#Jorgensen_et_al.,_2018))
-    1. Transparency ([Coyne et al., 2010](#Coyne_et_al.,_2010))
-    1. Poor quality ([Ioannidis, 2016](#Ioannidis,_2016))
-1. RCTs
-    1. Simpson's Paradox ([Sprenger et al., 2021](#Sprenger_et_al.,_2021))
-    1. Bias ([Vinkers et al., 2021](#Vinkers_et_al.,_2021))
 
 #### Potential Evidence Issues
 
@@ -117,6 +107,18 @@ A burden of proof is an expectation by one side about the strength of argument r
 1. Reporting biases ([Weinerova et al., 2022](#Weinerova_et_al.,_2022))
 1. Lack of post-publication review ([Gelman, 2017](#Gelman,_2017))
 
+#### Potential Procedural Issues
+
+1. Meta-analyses
+    1. Study selection ([Jørgensen et al., 2018](#Jorgensen_et_al.,_2018))
+    1. Transparency ([Coyne et al., 2010](#Coyne_et_al.,_2010))
+    1. Poor quality ([Ioannidis, 2016](#Ioannidis,_2016))
+1. RCTs
+    1. Simpson's Paradox ([Sprenger et al., 2021](#Sprenger_et_al.,_2021))
+    1. Bias ([Vinkers et al., 2021](#Vinkers_et_al.,_2021))
+1. Hierarchical/multilevel regression models
+    1. Degenerate covariance matrix estimates that do not have a practical interpretation, commonly for multilevel models when data are noisy and the number of groups is small ([Chung et al., 2015](#Chung_et_al.,_2015))
+
 ### Other general points
 
 1. We use the heuristic that mistakes are generally made due to incompetence rather than malice ([Bloch, 2003](#Bloch,_2003)), although the latter is certainly possible.
@@ -142,6 +144,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 [Carlisle, 2017]: https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/anae.13938?download=true 'Carlisle, J. B. (2017). Data fabrication and other reasons for non‐random sampling in 5087 randomised, controlled trials in anaesthetic and general medical journals. Anaesthesia, 72(8), 944-952. https://doi.org/10.1111/anae.13938'
 [Charlton, 2009]: https://doi.org/10.1111/j.1365-2753.2009.01267.x 'Charlton, B. G. (2009). The Zombie science of evidence‐based medicine: a personal retrospective. A commentary on Djulbegovic, B., Guyatt, GH & Ashcroft, RE (2009). Cancer Control, 16, 158–168. Journal of Evaluation in Clinical Practice, 15(6), 930-934. https://doi.org/10.1111/j.1365-2753.2009.01267.x'
 [Charlton & Miles, 1998]: https://doi.org/10.1093/qjmed/91.5.371 'Charlton, B. G., & Miles, A. (1998). The rise and fall of EBM. QJM: monthly journal of the Association of Physicians, 91(5), 371-374. https://doi.org/10.1093/qjmed/91.5.371'
+[Chung et al., 2015]: https://doi.org/10.3102/1076998615570945 'Chung, Y., Gelman, A., Rabe-Hesketh, S., Liu, J., & Dorie, V. (2015). Weakly informative prior for point estimation of covariance matrices in hierarchical models. Journal of Educational and Behavioral Statistics, 40(2), 136-157. https://doi.org/10.3102/1076998615570945'
 [Coyne et al., 2010]: https://psycnet.apa.org/doi/10.1037/a0017633 'Coyne, J. C., Thombs, B. D., & Hagedoorn, M. (2010). Ain’t necessarily so: review and critique of recent meta-analyses of behavioral medicine interventions in health psychology. Health Psychology, 29(2), 107. https://psycnet.apa.org/doi/10.1037/a0017633'
 [Craver et al., 2019]: https://plato.stanford.edu/entries/science-mechanisms/ 'Craver, C., Tabery, J., & Zalta, E. (Ed.) (2019). Mechanisms in Science. The Stanford Encyclopedia of Philosophy (Summer 2019 Edition). https://plato.stanford.edu/archives/sum2019/entries/science-mechanisms/'
 [Crocker, 2011]: https://doi.org/10.1038/479151a 'Crocker, J. (2011). The road to fraud starts with a single step. Nature, 479(7372), 151-151. https://doi.org/10.1038/479151a'
