@@ -1,6 +1,9 @@
 require 'kramdown-parser-gfm'
 
 class CustomMarkdownParser < Kramdown::Parser::GFM
+
+  DEBUG = ENV["DEBUG"] == "true"
+
   # This just happens to be a method called after
   # parsing is pretty much complete, so use it
   # as a hook to modify the tree
@@ -10,10 +13,14 @@ class CustomMarkdownParser < Kramdown::Parser::GFM
     # First we have to process @link_defs to convert the link IDs
     # to the anchor-style references we'll search for
     processed_link_defs = {}
-    #puts "Link defs: #{@link_defs.inspect}"
+    if DEBUG
+      puts "Link defs: #{@link_defs.inspect}"
+    end
     @link_defs.each do |key, link_def|
       putkey = Jekyll::ReferencesTag.remove_invalid_anchor_characters(key)
-      #puts "Put #{putkey} = #{link_def[0]}"
+      if DEBUG
+        puts "Put #{putkey} = #{link_def[0]}"
+      end
       processed_link_defs[putkey] = link_def
     end
 
@@ -27,7 +34,9 @@ class CustomMarkdownParser < Kramdown::Parser::GFM
         if !href.nil? && href.length > 0 && href[0] == '#'
           href = href[1..-1]
           checkkey = href.downcase
-          #puts "Checking key #{checkkey}"
+          if DEBUG
+            puts "Checking key #{checkkey}"
+          end
           link_def = processed_link_defs[checkkey]
           if !link_def.nil?
             title = ""
@@ -40,7 +49,9 @@ class CustomMarkdownParser < Kramdown::Parser::GFM
           else
             # If it has a year, then it's a citation so warn that it's missing a linkdef
             if /[12][0-9][0-9][0-9]/.match?(href)
-              #puts "Could not find key"
+              if DEBUG
+                puts "Could not find key #{checkkey}"
+              end
               warning("Warning: Could not find matching link definition for #{child.attr["href"]}")
             end
           end

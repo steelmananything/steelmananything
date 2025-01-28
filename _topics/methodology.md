@@ -87,7 +87,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 1. High heterogeneity violating random-effects model assumptions ([Stanley et al., 2022](#Stanley_et_al.,_2022)) and creating invalid generalizations ([Bryan et al., 2021](#Bryan_et_al.,_2021))
 1. Poor external validity ([Reiss et al., 2022](#Reiss_et_al.,_2022))
 1. Incorrect statistical controls ([Westfall & Yarkoni, 2016](#Westfall_&_Yarkoni,_2016))
-1. Medical reversals ((Prasad & Cifu, 2012)[#Prasad_&_Cifu,_2012])
+1. Medical reversals ([Prasad & Cifu, 2012](#Prasad_&_Cifu,_2012))
 1. Mistakes (e.g. data entry, variable coding, statistics, over-interpretation, etc.) ([Gelman, 2017](#Gelman,_2017); [Brown & Heathers, 2017](#Brown_&_Heathers,_2017))
 1. Multiple comparisons ([Bennett et al., 2009](#Bennett_et_al.,_2009))
 1. p-hacking, researcher degrees of freedom, multiple potential comparisons, or fishing expeditions ([Wasserstein & Lazar, 2016](#Wasserstein_&_Lazar,_2016); [Wasserstein et al., 2019](#Wasserstein_et_al.,_2019); [Simmons et al., 2016](#Simmons_et_al.,_2016); [Humphreys et al., 2013](#Humphreys_et_al.,_2013); [Gelman & Loken, 2013](#Gelman_&_Loken,_2013))
@@ -111,10 +111,10 @@ A burden of proof is an expectation by one side about the strength of argument r
 1. Reporting biases ([Weinerova et al., 2022](#Weinerova_et_al.,_2022))
 1. Lack of post-publication review ([Gelman, 2017](#Gelman,_2017))
 1. Fake studies ([Brainard, 2023](#Brainard,_2023), [Van Noorden, 2023](#Van_Noorden,_2023))
-1. Undisclosed financial incentives of public health authorities ((Lenzer, 2015)[#Lenzer,_2015])
-1. High rates of retractions ((Van Noorden, 2023b)[#Van_Noorden,_2023b])
-1. Significant variation in analyses of complex subjective data, even by experts with honest intentions ((Silberzahn et al., 2018)[#Silberzahn_et_al.,_2018])
-1. White hat bias (ends justifies the means or medical Machiavellianism) ((Cope & Allison, 2010)[#Cope_&_Allison,_2010])
+1. Undisclosed financial incentives of public health authorities ([Lenzer, 2015](#Lenzer,_2015))
+1. High rates of retractions ([Van Noorden, 2023b](#Van_Noorden,_2023b))
+1. Significant variation in analyses of complex subjective data, even by experts with honest intentions ([Silberzahn et al., 2018](#Silberzahn_et_al.,_2018))
+1. White hat bias (ends justifies the means or medical Machiavellianism) ([Cope & Allison, 2010](#Cope_&_Allison,_2010))
 
 #### Potential Issues with Specific Methods
 
@@ -127,17 +127,17 @@ A burden of proof is an expectation by one side about the strength of argument r
     1. Simpson's Paradox ([Sprenger et al., 2021](#Sprenger_et_al.,_2021))
     1. Bias ([Vinkers et al., 2021](#Vinkers_et_al.,_2021))
 1. Observational studies
-    1. Equally justifiable but different ways of analyzing data, each of which may produce different results ((Wang et al., 2024)[#Wang_et_al.,_2024])
+    1. Equally justifiable but different ways of analyzing data, each of which may produce different results ([Wang et al., 2024](#Wang_et_al.,_2024))
 
 #### Expert Opinions
 
 1. Dr. Marcia Angell, physician and editor-in-chief of The New England Journal of Medicine ([Angell, 2009](#Angell,_2009))
    > It is simply no longer possible to believe much of the clinical research that is published, or to rely on the judgment of trusted physicians or authoritative medical guidelines. I take no pleasure in this conclusion, which I reached slowly and reluctantly over my two decades as an editor of The New England Journal of Medicine.
 1. Dr. Richard Horton, editor-in-chief of The Lancet ([Horton, 2015](#Horton,_2015))
-   > The case against science is straightforward: much of the scientific literature, perhaps half, may simply be untrue. Afflicted by studies with small sample sizes, tiny effects, invalid exploratory analyses, and flagrant conflicts of interest, together with an obsession for pursuing fashionable trends of dubious importance, science has taken a turn towards darkness. [...] Can bad scientific practices be fixed? Part of the problem is that no-one is incentivised to be right. [...] Following several high-profile errors, the particle physics community now invests great effort into intensive checking and re-checking of data prior to publication. By filtering results through independent working groups, physicists are encouraged to criticise. Good criticism is rewarded. The goal is a reliable result, and the incentives for scientists are aligned around this goal. Weidberg worried we set the bar for results in biomedicine far too low. In particle physics, significance is set at 5 sigma—a p value of 3 × 10–7 or 1 in 3·5 million (if the result is not true, this is the probability that the data would have been as extreme as they are).
+   > The case against science is straightforward: much of the scientific literature, perhaps half, may simply be untrue. Afflicted by studies with small sample sizes, tiny effects, invalid exploratory analyses, and flagrant conflicts of interest, together with an obsession for pursuing fashionable trends of dubious importance, science has taken a turn towards darkness. \[...\] Can bad scientific practices be fixed? Part of the problem is that no-one is incentivised to be right. \[...\] Following several high-profile errors, the particle physics community now invests great effort into intensive checking and re-checking of data prior to publication. By filtering results through independent working groups, physicists are encouraged to criticise. Good criticism is rewarded. The goal is a reliable result, and the incentives for scientists are aligned around this goal. Weidberg worried we set the bar for results in biomedicine far too low. In particle physics, significance is set at 5 sigma—a p value of 3 × 10–7 or 1 in 3·5 million (if the result is not true, this is the probability that the data would have been as extreme as they are).
 1. Dr. John Ioannidis, Professor of Medicine, Epidemiology and Population Health, Statistics and Biomedical Data Science at Stanford ([Freedman, 2010](#Freedman,_2010))
    > Science is a noble endeavor, but it’s also a low-yield endeavor. I’m not sure that more than a very small percentage of medical research is ever likely to lead to major improvements in clinical outcomes and quality of life. We should be very comfortable with that fact.
-1. Dr. Irving Langmuir, Nobel prize for Chemistry ((Langmuir & Hall, 1989)[#Langmuir_&_Hall,_1989])
+1. Dr. Irving Langmuir, Nobel prize for Chemistry ([Langmuir & Hall, 1989](#Langmuir_&_Hall,_1989))
    > These are cases where there is no dishonesty involved but where people are tricked into false results by a lack of understanding about what human beings can do to themselves in the way of being led astray by subjective effects, wishful thinking or threshold interactions. These are examples of pathological science.
 
 #### Potential Procedural Issues
