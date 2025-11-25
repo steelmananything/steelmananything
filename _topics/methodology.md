@@ -62,6 +62,17 @@ A burden of proof is an expectation by one side about the strength of argument r
 
 ### Caveats
 
+#### Expert Opinions
+
+1. Dr. Marcia Angell, physician and editor-in-chief of The New England Journal of Medicine ([Angell, 2009](#Angell,_2009))
+   > It is simply no longer possible to believe much of the clinical research that is published, or to rely on the judgment of trusted physicians or authoritative medical guidelines. I take no pleasure in this conclusion, which I reached slowly and reluctantly over my two decades as an editor of The New England Journal of Medicine.
+1. Dr. Richard Horton, editor-in-chief of The Lancet ([Horton, 2015](#Horton,_2015))
+   > The case against science is straightforward: much of the scientific literature, perhaps half, may simply be untrue. Afflicted by studies with small sample sizes, tiny effects, invalid exploratory analyses, and flagrant conflicts of interest, together with an obsession for pursuing fashionable trends of dubious importance, science has taken a turn towards darkness. \[...\] Can bad scientific practices be fixed? Part of the problem is that no-one is incentivised to be right. \[...\] Following several high-profile errors, the particle physics community now invests great effort into intensive checking and re-checking of data prior to publication. By filtering results through independent working groups, physicists are encouraged to criticise. Good criticism is rewarded. The goal is a reliable result, and the incentives for scientists are aligned around this goal. Weidberg worried we set the bar for results in biomedicine far too low. In particle physics, significance is set at 5 sigma—a p value of 3 × 10–7 or 1 in 3·5 million (if the result is not true, this is the probability that the data would have been as extreme as they are).
+1. Dr. John Ioannidis, Professor of Medicine, Epidemiology and Population Health, Statistics and Biomedical Data Science at Stanford ([Freedman, 2010](#Freedman,_2010))
+   > Science is a noble endeavor, but it’s also a low-yield endeavor. I’m not sure that more than a very small percentage of medical research is ever likely to lead to major improvements in clinical outcomes and quality of life. We should be very comfortable with that fact.
+1. Dr. Irving Langmuir, Nobel prize for Chemistry ([Langmuir & Hall, 1989](#Langmuir_&_Hall,_1989))
+   > These are cases where there is no dishonesty involved but where people are tricked into false results by a lack of understanding about what human beings can do to themselves in the way of being led astray by subjective effects, wishful thinking or threshold interactions. These are examples of pathological science.
+
 #### Potential Issues with a hierarchy of evidence and evidence-based medicine
 
 1. There are potential issues with the concept of a hierarchy of evidence and the related "evidence-based medicine" (EBM) movement ([Murad et al., 2016](#Murad_et_al.,_2016); [Anglemyer et al., 2014](#Anglemyer_et_al.,_2014); [Frieden, 2017](#Frieden,_2017); [Stegenga, 2018](#Stegenga,_2018); [Blunt, 2015](#Blunt,_2015); [Jureidini & McHenry, 2022](#Jureidini_&_McHenry,_2022); [Charlton, 2009](#Charlton,_2009); [Charlton & Miles, 1998](#Charlton_&_Miles,_1998)).
@@ -139,27 +150,6 @@ A burden of proof is an expectation by one side about the strength of argument r
     1. Poorly described allocation concealment ([Baasan et al., 2022](#Baasan_et_al.,_2022))
 1. Observational studies
     1. Equally justifiable but different ways of analyzing data, each of which may produce different results ([Wang et al., 2024](#Wang_et_al.,_2024))
-
-#### Expert Opinions
-
-1. Dr. Marcia Angell, physician and editor-in-chief of The New England Journal of Medicine ([Angell, 2009](#Angell,_2009))
-   > It is simply no longer possible to believe much of the clinical research that is published, or to rely on the judgment of trusted physicians or authoritative medical guidelines. I take no pleasure in this conclusion, which I reached slowly and reluctantly over my two decades as an editor of The New England Journal of Medicine.
-1. Dr. Richard Horton, editor-in-chief of The Lancet ([Horton, 2015](#Horton,_2015))
-   > The case against science is straightforward: much of the scientific literature, perhaps half, may simply be untrue. Afflicted by studies with small sample sizes, tiny effects, invalid exploratory analyses, and flagrant conflicts of interest, together with an obsession for pursuing fashionable trends of dubious importance, science has taken a turn towards darkness. \[...\] Can bad scientific practices be fixed? Part of the problem is that no-one is incentivised to be right. \[...\] Following several high-profile errors, the particle physics community now invests great effort into intensive checking and re-checking of data prior to publication. By filtering results through independent working groups, physicists are encouraged to criticise. Good criticism is rewarded. The goal is a reliable result, and the incentives for scientists are aligned around this goal. Weidberg worried we set the bar for results in biomedicine far too low. In particle physics, significance is set at 5 sigma—a p value of 3 × 10–7 or 1 in 3·5 million (if the result is not true, this is the probability that the data would have been as extreme as they are).
-1. Dr. John Ioannidis, Professor of Medicine, Epidemiology and Population Health, Statistics and Biomedical Data Science at Stanford ([Freedman, 2010](#Freedman,_2010))
-   > Science is a noble endeavor, but it’s also a low-yield endeavor. I’m not sure that more than a very small percentage of medical research is ever likely to lead to major improvements in clinical outcomes and quality of life. We should be very comfortable with that fact.
-1. Dr. Irving Langmuir, Nobel prize for Chemistry ([Langmuir & Hall, 1989](#Langmuir_&_Hall,_1989))
-   > These are cases where there is no dishonesty involved but where people are tricked into false results by a lack of understanding about what human beings can do to themselves in the way of being led astray by subjective effects, wishful thinking or threshold interactions. These are examples of pathological science.
-
-#### Potential Procedural Issues
-
-1. Meta-analyses
-    1. Study selection ([Jørgensen et al., 2018](#Jorgensen_et_al.,_2018))
-    1. Transparency ([Coyne et al., 2010](#Coyne_et_al.,_2010))
-    1. Poor quality ([Ioannidis, 2016](#Ioannidis,_2016))
-1. RCTs
-    1. Simpson's Paradox ([Sprenger et al., 2021](#Sprenger_et_al.,_2021))
-    1. Bias ([Vinkers et al., 2021](#Vinkers_et_al.,_2021))
 1. Hierarchical/multilevel regression models
     1. Degenerate covariance matrix estimates that do not have a practical interpretation, commonly for multilevel models when data are noisy and the number of groups is small ([Chung et al., 2015](#Chung_et_al.,_2015))
 
