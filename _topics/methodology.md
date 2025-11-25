@@ -60,9 +60,9 @@ However, it's possible for things to be highly correlated but causally unrelated
 
 A burden of proof is an expectation by one side about the strength of argument required by another side for persuasion. A burden of proof may be useful to establish the core of a debate and avoid an argument going on indefinitely ([Walton, 1988b](#Walton,_1988b)). A burden of proof may assert controversial philosophical or ethical premises, but we think this is still valuable in clarifying the context and exit criteria of an argument.
 
-### Caveats
+### Potential problems of science
 
-#### Expert Opinions
+#### Expert opinions on potential problems
 
 1. Dr. Marcia Angell, physician and editor-in-chief of The New England Journal of Medicine ([Angell, 2009](#Angell,_2009))
    > It is simply no longer possible to believe much of the clinical research that is published, or to rely on the judgment of trusted physicians or authoritative medical guidelines. I take no pleasure in this conclusion, which I reached slowly and reluctantly over my two decades as an editor of The New England Journal of Medicine.
@@ -73,13 +73,13 @@ A burden of proof is an expectation by one side about the strength of argument r
 1. Dr. Irving Langmuir, Nobel prize for Chemistry ([Langmuir & Hall, 1989](#Langmuir_&_Hall,_1989))
    > These are cases where there is no dishonesty involved but where people are tricked into false results by a lack of understanding about what human beings can do to themselves in the way of being led astray by subjective effects, wishful thinking or threshold interactions. These are examples of pathological science.
 
-#### Potential Issues with a hierarchy of evidence and evidence-based medicine
+#### Potential issues with a hierarchy of evidence and evidence-based medicine
 
 1. There are potential issues with the concept of a hierarchy of evidence and the related "evidence-based medicine" (EBM) movement ([Murad et al., 2016](#Murad_et_al.,_2016); [Anglemyer et al., 2014](#Anglemyer_et_al.,_2014); [Frieden, 2017](#Frieden,_2017); [Stegenga, 2018](#Stegenga,_2018); [Blunt, 2015](#Blunt,_2015); [Jureidini & McHenry, 2022](#Jureidini_&_McHenry,_2022); [Charlton, 2009](#Charlton,_2009); [Charlton & Miles, 1998](#Charlton_&_Miles,_1998)).
 1. A lack of evidence higher in the hierarchy is not necessarily problematic due to infeasibility ([Smith & Pell, 2003](#Smith_&_Pell,_2003); [Prasad & Jena, 2013](#Prasad_&_Jena,_2013)), unnecessary risks ([Glasziou et al., 2007](#Glasziou_et_al.,_2007)), ethical issues, etc., although there are risks to making such assumptions ([Prasad et al., 2011](#Prasad_et_al.,_2011); [Prasad et al., 2013](#Prasad_et_al.,_2013); [Haslam et al., 2021](#Haslam_et_al.,_2021); [Herrera-Perez et al., 2019](#Herrera-Perez_et_al.,_2019); [Rossouw et al., 2002](#Rossouw_et_al.,_2002); [Powell & Prasad, 2022](#Powell_&_Prasad,_2022)).
 1. In some cases, evidence lower in the hierarchy may be stronger; for example, a well-done experiment might be stronger than a poorly done RCT.
 
-#### Potential Evidence Issues
+#### General potential issues
 
 1. General low quality ([Altman, 1994](#Altman,_1994); [Altman, 2002](#Altman,_2002))
 1. Failure to retract ([Doshi, 2015](#Doshi,_2015))
@@ -134,7 +134,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 1. White hat bias (ends justifies the means or medical Machiavellianism) ([Cope & Allison, 2010](#Cope_&_Allison,_2010))
 1. Overconfident claims such as "safe and effective" ([Doshi, 2015](#Doshi,_2015))
 
-#### Potential Issues with Specific Methods
+#### Potential issues with specific methods
 
 1. Meta-analyses
     1. Study selection ([Jørgensen et al., 2018](#Jorgensen_et_al.,_2018))
