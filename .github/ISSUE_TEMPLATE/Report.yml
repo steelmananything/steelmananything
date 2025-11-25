@@ -1,7 +1,7 @@
 # https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
 # https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
 name: Report
-description: Report an error and/or propose an edit
+description: Report problems and/or suggestions
 body:
   - type: checkboxes
     id: terms
@@ -11,10 +11,17 @@ body:
       options:
         - label: I agree to follow this project's Contribution Guidelines
           required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The page this issue is related to.
+    validations:
+      required: false
   - type: textarea
     id: contents
     attributes:
       label: Details
-      description: Report an error and/or propose an edit. If you want to just discuss something, [create a new discussion](https://github.com/steelmananything/steelmananything/discussions/new) instead.
+      description: Report problems and/or suggestions. If you want to discuss something first, [create a new discussion](https://github.com/steelmananything/steelmananything/discussions/new) instead.
     validations:
       required: true

@@ -23,7 +23,7 @@ module Jekyll
         end
       end
 
-      results = ""
+      results = "<hr /><p>Click <a href=\"https://github.com/steelmananything/steelmananything/issues/new?template=Report.yml&page=#{CGI.escape(context['page']['path'])}\">here</a> to report problems and/or suggestions for this page (requires a free GitHub.com account).</p>"
       if link_lines.size > 0
         results << "<h2 id=\"references\">References</h2>\n"
         results << "<details id=\"referencesDetails\" open>\n"

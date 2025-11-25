@@ -22,6 +22,10 @@ topics:
         url: /topics/steelmanning/
       - title: "Methodology"
         url: /topics/methodology/
+  - title: Vaccines
+    children:
+      - title: "All Vaccines"
+        url: /topics/vaccines/
   - title: Children
     children:
       - title: "COVID-19 Vaccine"
