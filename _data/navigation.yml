@@ -26,10 +26,10 @@ topics:
     children:
       - title: "All Vaccines"
         url: /topics/vaccines/
+      - title: "COVID-19 Vaccine for Children"
+        url: /topics/children_vaccine_covid19/
   - title: Children
     children:
-      - title: "COVID-19 Vaccine"
-        url: /topics/children_vaccine_covid19/
       - title: "Spanking"
         url: /topics/spanking/
 
