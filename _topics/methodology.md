@@ -110,7 +110,7 @@ A burden of proof is an expectation by one side about the strength of argument r
 1. Advertising an "inactive" placebo that has not been evaluated for inactivity ([Tomljenovic & McHenry, 2024](#Tomljenovic_&_McHenry,_2024))
 1. Conflicts of interest and funding distortions ([Lexchin et al., 2003](#Lexchin_et_al.,_2003); [Lundh et al., 2010](#Lundh_et_al.,_2010); [Angell, 2009](#Angell,_2009))
 1. Improper understanding and/or disclosure of blinding ([Schulz & Grimes, 2002](#Schulz_&_Grimes,_2002))
-1. Impacts of lack of double blinding ([Hrobjartsson, 2012](#Hrobjartsson,_2012))
+1. Impacts of lack of double blinding ([Hrobjartsson et al., 2012](#Hrobjartsson_et_al.,_2012))
 1. Improper use of placebo run-in ([Scott et al., 2022](#Scott_et_al.,_2022))
 1. The problem of multiplicity in frequentist analysis ([Rawlins, 2008b](#Rawlins,_2008b))
 1. Directional errors inhibiting scientific self-correction ([Agley et al., 2025](#Agley_et_al.,_2025))
