@@ -32,7 +32,7 @@ A normal part of the immune response involves inflammation and increased blood f
 
 The following steelmen are for general points across all vaccines and separate steelmen are needed for each specific vaccine.
 
-### Steelman: Mainstream View
+## Steelman: Mainstream View
 
 1. Epidemiology:
     1. Modeling shows vaccines avoided over 150 million deaths (including over 100 million infants) over the past 50 years worldwide ([Shattock et al., 2024](#Shattock_et_al.,_2024); [Zhou et al., 2024](#Zhou_et_al.,_2024); [Rodrigues & Plotkin, 2020](#Rodrigues_&_Plotkin,_2020); [Zhou et al., 2005](#Zhou_et_al.,_2005); [Zhou et al., 2014](#Zhou_et_al.,_2014); [Whitney et al., 2014](#Whitney_et_al.,_2014); [Roush et al., 2007](#Roush_et_al.,_2007); [U.S. CDC, 1999b](#U.S._CDC,_1999b)) and annually reduce severe disease, hospitalizations and impact up to over $1 trillion in reduced medical costs and increased economic benefits in the U.S. as an example ([Ozawa et al., 2016](#Ozawa_et_al.,_2016)).
