@@ -60,3 +60,7 @@ details summary {
     page-break-inside: auto !important;
   }
 }
+
+ul, ol {
+  padding-inline-start: 22px;
+}
